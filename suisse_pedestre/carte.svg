@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:cc="http://creativecommons.org/ns#"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:svg="http://www.w3.org/2000/svg"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+ xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+ width="10000"
+ height="10000"
+ viewBox="0 0 10000 10000"
+ version="1.1"
+ id="svg8"
+ inkscape:version="0.92.3 (2405546, 2018-03-11)"
+ sodipodi:docname="carte.svg">
+<defs
+ id="defs2" />
+<sodipodi:namedview
+ id="base"
+ pagecolor="#ffffff"
+ bordercolor="#666666"
+ borderopacity="1.0"
+ inkscape:pageopacity="0.0"
+ inkscape:pageshadow="2"
+ inkscape:zoom="0.175"
+ inkscape:cx="-495.73455"
+ inkscape:cy="7858.4806"
+ inkscape:document-units="px"
+ inkscape:current-layer="layer1"
+ showgrid="true"
+ units="px"
+ inkscape:window-width="1853"
+ inkscape:window-height="1025"
+ inkscape:window-x="67"
+ inkscape:window-y="27"
+ inkscape:window-maximized="1">
+<inkscape:grid
+ type="xygrid"
+ id="grid2727"
+ spacingx="67.733334"
+ spacingy="67.733334"
+ originx="2.1166667"
+ originy="2.1166667" />
+</sodipodi:namedview>
+<metadata
+ id="metadata5">
+<rdf:RDF>
+<cc:Work
+ rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type
+ rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<dc:title></dc:title>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g
+ inkscape:label="Fond de carte"
+ inkscape:groupmode="layer"
+ id="layer1"
+ transform="translate(0,2348.8334)"
+ style="display:inline"
+ sodipodi:insensitive="true">
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/92/154.jpeg"
+ xlink:href="21/92/154.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image893"
+ x="776.00012"
+ y="-1828.8336" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/92/153.jpeg"
+ xlink:href="21/92/153.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image971"
+ x="776.00012"
+ y="-2084.833" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/92/152.jpeg"
+ xlink:href="21/92/152.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image1017"
+ x="776.00012"
+ y="-2340.833" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/92/155.jpeg"
+ xlink:href="21/92/155.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image1177"
+ x="776.00012"
+ y="-1572.8336" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/91/152.jpeg"
+ xlink:href="21/91/152.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image1322"
+ x="520.00049"
+ y="-2340.833" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/91/153.jpeg"
+ xlink:href="21/91/153.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image1333"
+ x="520.00049"
+ y="-2084.833" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/91/154.jpeg"
+ xlink:href="21/91/154.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image1344"
+ x="520.00049"
+ y="-1828.8336" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/91/155.jpeg"
+ xlink:href="21/91/155.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image1355"
+ x="520.00049"
+ y="-1572.8336" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/90/152.jpeg"
+ xlink:href="21/90/152.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image1974"
+ x="264.00064"
+ y="-2340.833" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/90/153.jpeg"
+ xlink:href="21/90/153.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image1985"
+ x="264.00064"
+ y="-2084.833" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/90/154.jpeg"
+ xlink:href="21/90/154.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image1996"
+ x="264.00064"
+ y="-1828.8336" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/90/155.jpeg"
+ xlink:href="21/90/155.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2007"
+ x="264.00064"
+ y="-1572.8336" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/89/152.jpeg"
+ xlink:href="21/89/152.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2136"
+ x="8.0009031"
+ y="-2340.833" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/89/153.jpeg"
+ xlink:href="21/89/153.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2147"
+ x="8.0009031"
+ y="-2084.833" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/89/154.jpeg"
+ xlink:href="21/89/154.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2158"
+ x="8.0009031"
+ y="-1828.8336" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/89/155.jpeg"
+ xlink:href="21/89/155.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2169"
+ x="8.0009031"
+ y="-1572.8336" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/93/152.jpeg"
+ xlink:href="21/93/152.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2346"
+ x="1031.9999"
+ y="-2340.833" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/93/153.jpeg"
+ xlink:href="21/93/153.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2357"
+ x="1031.9999"
+ y="-2084.833" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/93/154.jpeg"
+ xlink:href="21/93/154.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2368"
+ x="1031.9999"
+ y="-1828.8336" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/93/155.jpeg"
+ xlink:href="21/93/155.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2379"
+ x="1031.9999"
+ y="-1572.8336" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/94/152.jpeg"
+ xlink:href="21/94/152.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2527"
+ x="1287.9996"
+ y="-2340.833" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/94/153.jpeg"
+ xlink:href="21/94/153.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2538"
+ x="1287.9996"
+ y="-2084.833" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/94/154.jpeg"
+ xlink:href="21/94/154.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2549"
+ x="1287.9996"
+ y="-1828.8336" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/94/155.jpeg"
+ xlink:href="21/94/155.jpeg"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2560"
+ x="1287.9996"
+ y="-1572.8336" />
+</g>
+<g
+ inkscape:groupmode="layer"
+ id="layer2"
+ inkscape:label="chemim pedestres"
+ style="display:inline">
+<image
+ y="519.99988"
+ x="776.00012"
+ id="image1115"
+ xlink:href="data:image/png;base64,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
+bIiRM/f2XErcnQNfaTS4cfgynuh3NulA9PxS4M1rmHvUMCcO1bm8WuMTMTB/b69LiWeBG4C3vfAI
++T5ev53AI8CGnHgkZDamyMZtmU39OubQvJ3cXW4p86Oc+Zdmixu8rFeHg76+F+DhNQydeiyLK5nX
+Jtqz4UZo5MTPN25lfee04s7/4sJKnctD+3jDm2J8aVcppswWYFPIPJ4zmzJsCpEfN5s89thWfnqo
+Tl82JngoRs4FyImvfWKcVaW3SqSXYta/GWh8nOqFcCaB18fA68m8ATgnRo46mM+35xjEjgD35cyj
+OfPjHPhxgE2NJj/f8BhPH+g+emOcK2KFb0F7P7+2jKUHk0kqZdYXwN6MjRE/fAGL6nXOzoGzQuD0
+DKcHOA1YHCOVg/3cOUPKTAXYHeCRHJgH7EpTfHbLLr5+wjvY2Xnt1G1cWKlxN0BKbKwt44yX/9VJ
+/XNYFsCLGR+n+qYmr65WWJLh5FhhCbCEzCkZzo6BVx3sQcmU2Jkz6zJ8Y6rF2nqN36kEvgCQE1+t
+LmPVIfxSpJ57xRXA/my4kSOXHMGJlSqvzXBKYPrvxQSOi4GjD+Tz5Aw5MxkjdYBW4iNDy7imt+ml
+Q2vgCmB/Hl7D0IkLODlXOHJeZriVObtS5Xzg4sqLnJ3Y1eSKI5azro9RpZfNAjhAY2PEv7yYM2OV
+twd4bwgs7exKpEzeuo3jj3snT5VNKb00FsBBeupmjhuZxzsqkVWtFl+eu4J/Lp1JkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJOgj/B39puK1/NZ/YAAAAAElF
+TkSuQmCC
+"
+ preserveAspectRatio="none"
+ height="256.00003"
+ width="255.99995"
+ style="stroke-width:0.26458335" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/92/152.png"
+ xlink:href="21/92/152.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2702"
+ x="776.00012"
+ y="7.9998736" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/92/153.png"
+ xlink:href="21/92/153.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2713"
+ x="776.00012"
+ y="263.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/92/155.png"
+ xlink:href="21/92/155.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image2724"
+ x="776.00012"
+ y="775.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/93/152.png"
+ xlink:href="21/93/152.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image6624"
+ x="1031.9999"
+ y="7.9998736" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/93/153.png"
+ xlink:href="21/93/153.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image6635"
+ x="1031.9999"
+ y="263.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/93/155.png"
+ xlink:href="21/93/155.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image6646"
+ x="1031.9999"
+ y="775.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/94/152.png"
+ xlink:href="21/94/152.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image6839"
+ x="1287.9999"
+ y="7.9998736" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/94/153.png"
+ xlink:href="21/94/153.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image6850"
+ x="1287.9999"
+ y="263.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/94/154.png"
+ xlink:href="21/94/154.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image7084"
+ x="1287.9999"
+ y="519.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/94/155.png"
+ xlink:href="21/94/155.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image7095"
+ x="1287.9999"
+ y="775.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/91/154.png"
+ xlink:href="21/91/154.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image7240"
+ x="520"
+ y="519.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/91/155.png"
+ xlink:href="21/91/155.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image7251"
+ x="520"
+ y="775.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/90/152.png"
+ xlink:href="21/90/152.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image7444"
+ x="264.00027"
+ y="7.9998736" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/90/154.png"
+ xlink:href="21/90/154.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image7455"
+ x="264.00027"
+ y="519.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/90/155.png"
+ xlink:href="21/90/155.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image7466"
+ x="264.00027"
+ y="775.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/89/152.png"
+ xlink:href="21/89/152.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image7643"
+ x="8.0000486"
+ y="7.9998736" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/89/154.png"
+ xlink:href="21/89/154.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image7654"
+ x="8.0000486"
+ y="519.99988" />
+</g>
+<g
+ inkscape:groupmode="layer"
+ id="layer3"
+ inkscape:label="Rando">
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/152/92.png"
+ xlink:href="21/152/92.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image7848"
+ x="776.00012"
+ y="7.9998736" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/152/93.png"
+ xlink:href="21/152/93.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image7859"
+ x="1031.9999"
+ y="7.9998736" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/152/94.png"
+ xlink:href="21/152/94.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image7870"
+ x="1287.9999"
+ y="7.9998736" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/153/92.png"
+ xlink:href="21/153/92.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image8031"
+ x="776.00012"
+ y="263.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/154/89.png"
+ xlink:href="21/154/89.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image8224"
+ x="8.0000486"
+ y="519.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/154/90.png"
+ xlink:href="21/154/90.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image8235"
+ x="264.00027"
+ y="519.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/154/91.png"
+ xlink:href="21/154/91.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image8246"
+ x="520"
+ y="519.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/154/92.png"
+ xlink:href="21/154/92.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image8257"
+ x="776.00012"
+ y="519.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/155/90.png"
+ xlink:href="21/155/90.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image8418"
+ x="264.00027"
+ y="775.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/155/91.png"
+ xlink:href="21/155/91.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image8429"
+ x="520"
+ y="775.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/155/92.png"
+ xlink:href="21/155/92.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image8440"
+ x="776.00012"
+ y="775.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/155/93.png"
+ xlink:href="21/155/93.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image8451"
+ x="1031.9999"
+ y="775.99988" />
+<image
+ sodipodi:absref="/home/luc/dev/skyluc/suisse_pedestre/21/155/94.png"
+ xlink:href="21/155/94.png"
+ width="255.99995"
+ height="256.00003"
+ preserveAspectRatio="none"
+ style="stroke-width:0.26458335;image-rendering:optimizeSpeed"
+ id="image8462"
+ x="1287.9999"
+ y="775.99988" />
+</g>
+</svg>
