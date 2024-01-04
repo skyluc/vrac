@@ -2,1034 +2,1132 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
- xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:cc="http://creativecommons.org/ns#"
- xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
- xmlns:svg="http://www.w3.org/2000/svg"
- xmlns="http://www.w3.org/2000/svg"
- xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
- xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
- width="210mm"
- height="297mm"
- viewBox="0 0 210 297"
- version="1.1"
- id="svg8"
- inkscape:version="0.92.3 (2405546, 2018-03-11)"
- sodipodi:docname="resume.svg">
-<defs
- id="defs2" />
-<sodipodi:namedview
- id="base"
- pagecolor="#ffffff"
- bordercolor="#666666"
- borderopacity="1.0"
- inkscape:pageopacity="0.0"
- inkscape:pageshadow="2"
- inkscape:zoom="1.4142135"
- inkscape:cx="353.52153"
- inkscape:cy="926.98231"
- inkscape:document-units="mm"
- inkscape:current-layer="layer1"
- showgrid="false"
- inkscape:window-width="1853"
- inkscape:window-height="1025"
- inkscape:window-x="67"
- inkscape:window-y="27"
- inkscape:window-maximized="1"
- inkscape:snap-bbox="true"
- inkscape:snap-nodes="true"
- inkscape:bbox-nodes="true"
- inkscape:bbox-paths="true"
- inkscape:snap-bbox-midpoints="false"
- inkscape:snap-grids="false"
- showguides="false"
- inkscape:guide-bbox="true"
- inkscape:snap-text-baseline="false"
- inkscape:lockguides="true"
- inkscape:snap-bbox-edge-midpoints="false">
-<sodipodi:guide
- position="-73.024998,292"
- orientation="0,1"
- inkscape:locked="true"
- id="guide356"
- inkscape:label=""
- inkscape:color="rgb(0,0,255)" />
-<sodipodi:guide
- position="-63.764582,5"
- orientation="0,1"
- inkscape:locked="true"
- id="guide358"
- inkscape:label=""
- inkscape:color="rgb(0,0,255)" />
-<sodipodi:guide
- position="205,325.17292"
- orientation="1,0"
- inkscape:locked="true"
- id="guide360"
- inkscape:label=""
- inkscape:color="rgb(0,0,255)" />
-<sodipodi:guide
- position="5,323.05626"
- orientation="1,0"
- inkscape:locked="true"
- id="guide362"
- inkscape:label=""
- inkscape:color="rgb(0,0,255)" />
-<sodipodi:guide
- position="10,306.91668"
- orientation="1,0"
- inkscape:locked="true"
- id="guide4067"
- inkscape:label=""
- inkscape:color="rgb(0,0,255)" />
-<sodipodi:guide
- position="15,304.27084"
- orientation="1,0"
- id="guide4071"
- inkscape:locked="true"
- inkscape:label=""
- inkscape:color="rgb(0,0,255)" />
-<sodipodi:guide
- position="20,308.32214"
- orientation="1,0"
- id="guide4125"
- inkscape:locked="true"
- inkscape:label=""
- inkscape:color="rgb(0,0,255)" />
-<sodipodi:guide
- position="-78.316668,289.5"
- orientation="0,1"
- id="guide6762"
- inkscape:locked="true"
- inkscape:label=""
- inkscape:color="rgb(0,0,255)" />
-<sodipodi:guide
- position="-32.543751,7.5"
- orientation="0,1"
- id="guide6764"
- inkscape:locked="true"
- inkscape:label=""
- inkscape:color="rgb(0,0,255)" />
-<sodipodi:guide
- position="200,312.47294"
- orientation="1,0"
- id="guide6766"
- inkscape:locked="true"
- inkscape:label=""
- inkscape:color="rgb(0,0,255)" />
-</sodipodi:namedview>
-<metadata
- id="metadata5">
-<rdf:RDF>
-<cc:Work
- rdf:about="">
-<dc:format>image/svg+xml</dc:format>
-<dc:type
- rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-<dc:title />
-</cc:Work>
-</rdf:RDF>
-</metadata>
-<g
- inkscape:label="Layer 1"
- inkscape:groupmode="layer"
- id="layer1">
-<text
- xml:space="preserve"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166698px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25842273"
- x="9.5142412"
- y="11.520428"
- id="text3715"><tspan
- sodipodi:role="line"
- id="tspan3713"
- x="9.5142412"
- y="11.520428"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.25842273">Luc Bourlier</tspan></text>
-<g
- id="g1469">
-<text
- id="text3992"
- y="15.990707"
- x="39.446095"
- style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-size:3.88055563px;stroke-width:0.26458332"
- y="15.990707"
- x="39.446095"
- id="tspan3990"
- sodipodi:role="line">Lausanne, Switzerland</tspan></text>
-<text
- id="text3992-2"
- y="20.537201"
- x="39.593887"
- style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-size:3.88055563px;stroke-width:0.26458332"
- y="20.537201"
- x="39.593887"
- id="tspan3990-8"
- sodipodi:role="line">Senior Software Engineer</tspan></text>
-<text
- id="text4014"
- y="15.990707"
- x="9.8248177"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="15.990707"
- x="9.8248177"
- id="tspan4012"
- sodipodi:role="line">current location:</tspan><tspan
- id="tspan4016"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="19.959457"
- x="9.8248177"
- sodipodi:role="line" /></text>
-<text
- id="text4014-2"
- y="20.537201"
- x="22.332581"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4041"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="20.537201"
- x="22.332581"
- sodipodi:role="line">position:</tspan></text>
-</g>
-<text
- xml:space="preserve"
- style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- x="173.21886"
- y="11.520428"
- id="text3992-6"><tspan
- sodipodi:role="line"
- id="tspan3990-0"
- x="173.21886"
- y="11.520428"
- style="font-size:3.88055563px;stroke-width:0.26458332">lb@skyluc.org</tspan></text>
-<text
- xml:space="preserve"
- style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- x="65.881248"
- y="172.38126"
- id="text4343"><tspan
- sodipodi:role="line"
- id="tspan4341"
- x="65.881248"
- y="175.50252"
- style="stroke-width:0.26458332" /></text>
-<text
- xml:space="preserve"
- style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- x="102.39374"
- y="143.13126"
- id="text4462"><tspan
- sodipodi:role="line"
- id="tspan4460"
- x="102.39374"
- y="143.13126"
- style="stroke-width:0.26458332">, </tspan></text>
-<flowRoot
- xml:space="preserve"
- id="flowRoot322"
- style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:13.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
- id="flowRegion324"><rect
- id="rect326"
- width="794"
- height="60"
- x="-40"
- y="136.51968" /></flowRegion><flowPara
- id="flowPara328" /></flowRoot><path
- style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
- d="M 9.9000003,23.864869 V 289.5"
- id="path4714"
- inkscape:connector-curvature="0"
- sodipodi:nodetypes="cc" />
-<g
- id="g6581"
- transform="translate(5.4291666,-1.6489369)">
-<text
- id="text3992-27"
- y="28.417301"
- x="4.7209477"
- style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-size:3.88055563px;stroke-width:0.26458332"
- y="28.417301"
- x="4.7209477"
- id="tspan3990-6"
- sodipodi:role="line">Summary</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-7-3-4-35-9"
- y="32.650639"
- x="9.8863115"
- style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan312"
- style="font-size:3.52777767px;stroke-width:0.26458332"
- y="32.650639"
- x="9.8863115"
- sodipodi:role="line">With experience in both open source and consumer products, and several years of functional</tspan><tspan
- id="tspan1164"
- style="font-size:3.52777767px;stroke-width:0.26458332"
- y="37.06036"
- x="9.8863115"
- sodipodi:role="line">programming, I am looking for the next engaging project on which to apply my abilities.</tspan><tspan
- id="tspan1166"
- style="font-size:3.52777767px;stroke-width:0.26458332"
- y="41.470081"
- x="9.8863115"
- sodipodi:role="line">I can work remote, or relocate, as needed.</tspan></text>
-<path
- inkscape:connector-curvature="0"
- id="path5540"
- d="m 4.5708337,28.946469 c 18.8006563,0 18.8006563,0 18.8006563,0"
- style="fill:none;stroke:#000000;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-</g>
-<g
- id="g6614"
- transform="translate(5.4291668,1.3758354)">
-<text
- id="text3992-27-0"
- y="42.907951"
- x="4.5845213"
- style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-size:3.88055563px;stroke-width:0.26458332"
- y="42.907951"
- x="4.5845213"
- id="tspan3990-6-9"
- sodipodi:role="line">Education</tspan></text>
-<g
- id="g6599">
-<text
- xml:space="preserve"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- x="9.6053572"
- y="48.199623"
- id="text3992-27-0-0"><tspan
- sodipodi:role="line"
- x="9.6053572"
- y="48.199623"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332"
- id="tspan330">Master degree in Computer Sciences</tspan></text>
-<text
- xml:space="preserve"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- x="14.741618"
- y="51.903793"
- id="text336"><tspan
- sodipodi:role="line"
- id="tspan334"
- x="14.741618"
- y="51.903793"
- style="font-size:3.17499995px;stroke-width:0.26458332">2001 - ESSI (now Polytech'Nice Sophia).</tspan></text>
-</g>
-<g
- id="g6593">
-<text
- xml:space="preserve"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- x="9.5790091"
- y="57.195465"
- id="text3992-27-0-0-1"><tspan
- sodipodi:role="line"
- id="tspan3990-6-9-8-0"
- x="9.5790091"
- y="57.195465"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332">Bachelor degree, Mathematics and Computer Sciences applied to Sciences</tspan></text>
-<text
- xml:space="preserve"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- x="14.612427"
- y="60.899635"
- id="text340"><tspan
- sodipodi:role="line"
- id="tspan338"
- x="14.612427"
- y="60.899635"
- style="font-size:3.17499995px;stroke-width:0.26458332">1998 - Université de Bourgogne.</tspan></text>
-</g>
-<path
- inkscape:connector-curvature="0"
- id="path5542"
- d="M 4.5708335,43.39207 H 23.585603"
- style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-</g>
-<g
- id="g6760"
- transform="translate(5.429167,-1.2299395)">
-<text
- id="text3992-27-7"
- y="68.218521"
- x="4.5845213"
- style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-size:3.88055563px;stroke-width:0.26458332"
- y="68.218521"
- x="4.5845213"
- id="tspan3990-6-99"
- sodipodi:role="line">Professional Experience</tspan></text>
-<g
- transform="translate(0,9.5250011)"
- id="g6326">
-<g
- id="g6305">
-<text
- id="text3992-27-7-1-0"
- y="188.06201"
- x="14.549898"
- style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-size:4.23333311px;stroke-width:0.26458332"
- y="188.06201"
- x="14.549898"
- id="tspan3990-6-99-7-4"
- sodipodi:role="line">Eclipse project, Debugger team</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-2"
- y="191.76613"
- x="19.653769"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4216-9"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="191.76613"
- x="19.653769"
- sodipodi:role="line">Development of the Eclipse debugger platform, and of the Eclipse Java debugger.</tspan><tspan
- id="tspan4442"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="195.73488"
- x="19.653769"
- sodipodi:role="line">Implementation of expression evaluation in a debugging context.</tspan><tspan
- id="tspan4444"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="199.70363"
- x="19.653769"
- sodipodi:role="line">Implementation of support for JSR-45.</tspan><tspan
- id="tspan6288"
- style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
- y="203.67238"
- x="19.653769"
- sodipodi:role="line">Technologies: Java, Eclipse, JDI, OSGI, Junit.</tspan></text>
-</g>
-<g
- id="g6311">
-<text
- id="text3992-27-7-1-1"
- y="179.0663"
- x="9.7715902"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332"
- y="179.0663"
- x="9.7715902"
- id="tspan3990-6-99-7-7"
- sodipodi:role="line">OTI, then IBM - Staff Software Engineer</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-7-4"
- y="182.77042"
- x="14.653768"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4458-3"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="182.77042"
- x="14.653768"
- sodipodi:role="line">Minneapolis, MN and Portland, OR. January 2002 - July 2005.</tspan></text>
-</g>
-</g>
-<g
- transform="translate(0,7.2773602)"
- id="g6402">
-<g
- id="g6382">
-<text
- id="text3992-27-7-1-0-0"
- y="164.46547"
- x="14.549898"
- style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-size:4.23333311px;stroke-width:0.26458332"
- y="164.46547"
- x="14.549898"
- id="tspan3990-6-99-7-4-8"
- sodipodi:role="line">MyEclipse IDE</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-7"
- y="168.16959"
- x="19.767456"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4216-6"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="168.16959"
- x="19.767456"
- sodipodi:role="line">Support of an UML tool inside MyEclipse IDE.</tspan><tspan
- id="tspan4458"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="172.13834"
- x="19.767456"
- sodipodi:role="line">Integration of NetBeans WYSIWYG editor for Swing in MyEclipse IDE.</tspan><tspan
- id="tspan6374"
- style="font-size:2.46944451px;stroke-width:0.26458332"
- y="176.10709"
- x="19.767456"
- sodipodi:role="line">Technologies: Java, Eclipse, SWT, Swing, code generation.</tspan></text>
-</g>
-<g
- id="g6388">
-<text
- id="text3992-27-7-1-7"
- y="155.46976"
- x="9.7715902"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332"
- y="155.46976"
- x="9.7715902"
- id="tspan3990-6-99-7-11"
- sodipodi:role="line">Genuitec - Software Engineer</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-7-4-7"
- y="159.17387"
- x="14.653768"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4458-3-9"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="159.17387"
- x="14.653768"
- sodipodi:role="line">Remote, from Dijon, France. Mars 2006 - May 2007.</tspan></text>
-</g>
-</g>
-<g
- transform="translate(0,5.9998122)"
- id="g6460">
-<g
- id="g6434">
-<text
- id="text3992-27-7-1-4"
- y="126.93435"
- x="10"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332"
- y="126.93435"
- x="10"
- id="tspan3990-6-99-7-1"
- sodipodi:role="line">TomTom - Senior Software Engineer, Tech Lead</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-7-4-74"
- y="130.63849"
- x="14.972439"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4458-3-91"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="130.63849"
- x="14.972439"
- sodipodi:role="line">Amsterdam, Netherlands. June 2007 - June 2011.</tspan></text>
-</g>
-<g
- id="g6444">
-<text
- id="text3992-27-7-1-0-0-5"
- y="135.93008"
- x="14.742478"
- style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-size:4.23333311px;stroke-width:0.26458332"
- y="135.93008"
- x="14.742478"
- id="tspan3990-6-99-7-4-8-1"
- sodipodi:role="line">Over-the-air data distribution platform</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-7-0"
- y="139.6342"
- x="20.010336"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4458-5"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="139.6342"
- x="20.010336"
- sodipodi:role="line">Creation and extension of the over-the-air platform used to send live data (traffic, weather, ...) to</tspan><tspan
- id="tspan4544"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="143.60295"
- x="20.010336"
- sodipodi:role="line">TomTom GPS devices all over the world.</tspan><tspan
- id="tspan4546"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="147.5717"
- x="20.010336"
- sodipodi:role="line">Requirements of high availability, low bandwidth and ease of adding new services and regions.</tspan><tspan
- id="tspan6426"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="151.54045"
- x="20.010336"
- sodipodi:role="line"><tspan
- id="tspan6428"
- style="font-size:2.46944451px">Technologies: Java, SOA, AOP, J2EE, Tomcat, Spring.</tspan></tspan></text>
-</g>
-</g>
-<g
- id="g6680">
-<g
- id="g6556"
- transform="translate(0,2.7820085)">
-<text
- id="text3992-27-7-1-0-0-6"
- y="117.27237"
- x="14.697693"
- style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-size:4.23333311px;stroke-width:0.26458332"
- y="117.27237"
- x="14.697693"
- id="tspan3990-6-99-7-4-8-6"
- sodipodi:role="line">Scala IDE</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-7-3"
- y="120.97655"
- x="19.653769"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4458-4"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="120.97655"
- x="19.653769"
- sodipodi:role="line">Development of Scala IDE, the support for Scala development inside Eclipse.</tspan><tspan
- id="tspan6547"
- style="font-size:2.46944451px;stroke-width:0.26458332"
- y="124.9453"
- x="19.653769"
- sodipodi:role="line">Technologies: Eclipse, Scala, Java, Scala Presentation Compiler, JDI.</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-7-4-70-1-4"
- y="117.27237"
- x="38.36533"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4458-3-6-5-1"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="117.27237"
- x="38.36533"
- sodipodi:role="line">2011-2014</tspan></text>
-</g>
-<g
- id="g6545"
- transform="translate(0,0.91133255)">
-<text
- id="text3992-27-7-1-0-0-2"
- y="102.29453"
- x="14.549898"
- style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4371"
- style="font-size:4.23333311px;stroke-width:0.26458332"
- y="102.29453"
- x="14.549898"
- sodipodi:role="line">FastData team</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-7-4-70-1"
- y="102.29453"
- x="50.090366"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4458-3-6-5"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="102.29453"
- x="50.090366"
- sodipodi:role="line">2015-2018</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-7-3-4"
- y="105.99869"
- x="19.788126"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4458-4-9"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="105.99869"
- x="19.788126"
- sodipodi:role="line">Internal projects to help support our customers using streaming frameworks (Spark, Flink), on DC/OS</tspan><tspan
- id="tspan4622"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="109.96744"
- x="19.788126"
- sodipodi:role="line">and OpenShift.</tspan><tspan
- id="tspan4624"
- style="font-size:2.46944451px;stroke-width:0.26458332"
- y="113.93619"
- x="19.788126"
- sodipodi:role="line">Technologies: Spark, Flink, DC/OS, OpenShift, Kafka, Kubernetes, AWS.</tspan></text>
-</g>
-<g
- id="g6535"
- transform="translate(0,7.412412e-6)">
-<text
- id="text3992-27-7-1"
- y="73.522972"
- x="10"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332"
- y="73.522972"
- x="10"
- id="tspan3990-6-99-7"
- sodipodi:role="line">Typesafe (now Ligthbend) - Senior Software Engineer</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-7-4-70"
- y="77.227142"
- x="14.653768"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4458-3-6"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="77.227142"
- x="14.653768"
- sodipodi:role="line">Remote teams, from Lausanne, Switzerland. September 2011 - April 2020.</tspan></text>
-</g>
-<g
- id="g6529"
- transform="translate(0,7.412412e-6)">
-<text
- id="text3992-27-7-1-0-0-64"
- y="82.518814"
- x="14.742479"
- style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-size:4.23333311px;stroke-width:0.26458332"
- y="82.518814"
- x="14.742479"
- id="tspan3990-6-99-7-4-8-8"
- sodipodi:role="line">Cloudflow Project</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-7-4-70-1-5"
- y="82.518814"
- x="56.992786"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4458-3-6-5-5"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="82.518814"
- x="56.992786"
- sodipodi:role="line">2018-2020</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-7-3-4-35"
- y="86.222984"
- x="19.808798"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4624-9"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="86.222984"
- x="19.808798"
- sodipodi:role="line">Development of Cloudflow, a platform to help with development, deployment and monitoring of</tspan><tspan
- id="tspan169"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="90.191734"
- x="19.808798"
- sodipodi:role="line">streaming applications on Kubernetes.</tspan><tspan
- id="tspan171"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="94.160484"
- x="19.808798"
- sodipodi:role="line">Supports Spark, Flink and Akka Streams.</tspan><tspan
- id="tspan6518"
- style="font-size:2.46944451px;stroke-width:0.26458332"
- y="98.129234"
- x="19.808798"
- sodipodi:role="line">Technologies: Scala, Java, Kubernetes, Akka Streams, Spark, Flink, Kafka, Go, GCE, AWS.</tspan></text>
-</g>
-</g>
-<path
- inkscape:connector-curvature="0"
- id="path5542-1"
- d="M 4.5708333,68.747689 H 50.596013"
- style="fill:none;stroke:#000000;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-</g>
-<g
- id="g1281"
- transform="translate(0,-0.13232299)">
-<text
- id="text3992-27-7-12"
- y="216.66611"
- x="10.191456"
- style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-size:3.88055563px;stroke-width:0.26458332"
- y="216.66611"
- x="10.191456"
- id="tspan3990-6-99-70"
- sodipodi:role="line">Open Source Experience</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-2-9"
- y="220.89938"
- x="15.411942"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4444-0"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332"
- y="220.89938"
- x="15.411942"
- sodipodi:role="line">Eclipse</tspan><tspan
- id="tspan224"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332"
- y="224.86813"
- x="15.411942"
- sodipodi:role="line">Scala IDE</tspan><tspan
- id="tspan4289"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332"
- y="228.83688"
- x="15.411942"
- sodipodi:role="line">Cloudflow</tspan><tspan
- id="tspan4308"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="232.80563"
- x="15.411942"
- sodipodi:role="line"><tspan
- id="tspan4300"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Apache Spark</tspan> </tspan><tspan
- id="tspan230"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="236.77438"
- x="15.411942"
- sodipodi:role="line">Small contributions to Scala and Akka Streams.</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-2-9-3"
- y="220.89938"
- x="43.894337"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4444-0-7"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="220.89938"
- x="43.894337"
- sodipodi:role="line">- team member. <tspan
- style="font-size:2.11666656px"
- id="tspan4899">(2002-2005)</tspan> </tspan><tspan
- id="tspan220-9"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="224.86813"
- x="43.894337"
- sodipodi:role="line">- team member. <tspan
- style="font-size:2.11666656px"
- id="tspan4903">(2011-2016)</tspan></tspan><tspan
- id="tspan228-9"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="228.83688"
- x="43.894337"
- sodipodi:role="line">- team member. <tspan
- style="font-size:2.11666656px"
- id="tspan4905">(2018-2020)</tspan></tspan><tspan
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="232.80563"
- x="43.894337"
- sodipodi:role="line"
- id="tspan1180">- contribution to &quot;Dynamic Rate Limiter&quot; and &quot;Dynamic Allocation&quot;.</tspan><tspan
- id="tspan346-3"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="236.77438"
- x="43.894337"
- sodipodi:role="line" /><tspan
- id="tspan230-6"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="240.74313"
- x="43.894337"
- sodipodi:role="line" /></text>
-<path
- inkscape:connector-curvature="0"
- id="path5542-2"
- d="M 10,217.19527 H 57.817317"
- style="fill:none;stroke:#000000;stroke-width:0.20000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-</g>
-<g
- id="g1427"
- transform="translate(0,-0.44101363)">
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0-1"
- y="244.88483"
- x="15.429167"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan1390"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="244.88483"
- x="15.429167"
- sodipodi:role="line"><tspan
- id="tspan1392"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Talks<tspan
- id="tspan1403"
- style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"> at </tspan>conferences</tspan><tspan
- style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
- id="tspan1407"> and user groups, including Spark Summit and Scala Days. <tspan
- id="tspan1409"
- style="font-size:2.82222223px">(1, 2)</tspan></tspan></tspan><tspan
- id="tspan1398"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="248.85358"
- x="15.429167"
- sodipodi:role="line"><tspan
- id="tspan1400"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Community support</tspan><tspan
- style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
- id="tspan1388"> for Open Source projects, main experience with Scala IDE and Cloudflow.</tspan></tspan><tspan
- id="tspan1382"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="252.82233"
- x="15.429167"
- sodipodi:role="line"><tspan
- id="tspan1384"
- style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Ingress</tspan>, augmented reality real world game.</tspan><tspan
- id="tspan4243"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="256.79108"
- x="15.429167"
- sodipodi:role="line">     'Sage' of the local community, aiming to keep it nice and open.</tspan><tspan
- id="tspan4907"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="260.75983"
- x="15.429167"
- sodipodi:role="line">     Regular Squad Leader for large competition events (up to 10k players in one city).</tspan></text>
-<text
- id="text3992-27-7-12-6"
- y="241.18071"
- x="10.191456"
- style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-size:3.88055563px;stroke-width:0.26458332"
- y="241.18071"
- x="10.191456"
- id="tspan3990-6-99-70-2"
- sodipodi:role="line">Community Experience</tspan></text>
-<path
- inkscape:connector-curvature="0"
- id="path5542-2-3"
- d="M 10,241.70987 H 55.346495"
- style="fill:none;stroke:#000000;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-</g>
-<g
- id="g6206"
- transform="translate(5.4291669,1.7222226)">
-<text
- id="text3992-27-7-3"
- y="263.30969"
- x="4.5845213"
- style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-size:3.88055563px;stroke-width:0.26458332"
- y="263.30969"
- x="4.5845213"
- id="tspan3990-6-99-2"
- sodipodi:role="line">Miscellaneous</tspan></text>
-<text
- inkscape:transform-center-y="11.1125"
- inkscape:transform-center-x="-5.0270833"
- id="text4160-2-0"
- y="267.01392"
- x="10"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="267.01392"
- x="10"
- id="tspan4158-2-2"
- sodipodi:role="line">Languages: French, native. English, fluent.</tspan><tspan
- id="tspan4391"
- style="font-size:3.17499995px;stroke-width:0.26458332"
- y="270.98267"
- x="10"
- sodipodi:role="line">                   Some notions: German, Dutch, Japanese.</tspan></text>
-<path
- inkscape:connector-curvature="0"
- id="path5542-2-3-6"
- d="M 4.5708334,263.83886 H 31.610091"
- style="fill:none;stroke:#000000;stroke-width:0.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-</g>
-<g
- id="g6179"
- transform="translate(5.629167,-5.2050844)">
-<text
- id="text3992-27-7-3-4"
- y="282.62308"
- x="4.5845213"
- style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- xml:space="preserve"><tspan
- id="tspan4154"
- style="font-size:3.88055563px;stroke-width:0.26458332"
- y="282.62308"
- x="4.5845213"
- sodipodi:role="line">Links</tspan><tspan
- id="tspan4152"
- style="font-size:3.88055563px;stroke-width:0.26458332"
- y="287.47379"
- x="4.5845213"
- sodipodi:role="line" /></text>
-<text
- xml:space="preserve"
- style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
- x="9.6796064"
- y="286.3273"
- id="text4160"><tspan
- sodipodi:role="line"
- id="tspan4158"
- x="9.6796064"
- y="286.3273"
- style="font-size:3.17499995px;fill:#000000;fill-opacity:1;stroke-width:0.26458332">https://github.com/skyluc</tspan><tspan
- sodipodi:role="line"
- x="9.6796064"
- y="290.29605"
- style="font-size:3.17499995px;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
- id="tspan4401">https://www.linkedin.com/in/lucbourlier/</tspan><tspan
- id="tspan6166"
- sodipodi:role="line"
- x="9.6796064"
- y="294.2648"
- style="font-size:3.17499995px;fill:#000000;fill-opacity:1;stroke-width:0.26458332"><tspan
- id="tspan6168"
- style="font-size:2.11666656px">1 - https://youtu.be/DonFPApGR24?t=900                     2 - https://youtu.be/oqWDeC1zmQw</tspan> </tspan></text>
-<path
- inkscape:connector-curvature="0"
- id="path5542-2-3-7"
- d="M 4.3708333,283.15225 H 14.367387"
- style="fill:none;stroke:#000000;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-</g>
-</g>
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="resume.svg"
+   inkscape:export-filename="resume.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <rect
+       x="256.08798"
+       y="1181.5326"
+       width="43.982971"
+       height="48.448147"
+       id="rect13" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.6621202"
+     inkscape:cx="221.86601"
+     inkscape:cy="968.9742"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2194"
+     inkscape:window-height="1435"
+     inkscape:window-x="1982"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-grids="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-text-baseline="false"
+     inkscape:lockguides="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff">
+    <sodipodi:guide
+       position="-73.024998,292"
+       orientation="0,1"
+       inkscape:locked="true"
+       id="guide356"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-63.764582,5"
+       orientation="0,1"
+       inkscape:locked="true"
+       id="guide358"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="205,325.17292"
+       orientation="1,0"
+       inkscape:locked="true"
+       id="guide360"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="5,323.05626"
+       orientation="1,0"
+       inkscape:locked="true"
+       id="guide362"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="10,306.91668"
+       orientation="1,0"
+       inkscape:locked="true"
+       id="guide4067"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="15,304.27084"
+       orientation="1,0"
+       id="guide4071"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="20,308.32214"
+       orientation="1,0"
+       id="guide4125"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-78.316668,289.5"
+       orientation="0,1"
+       id="guide6762"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-32.543751,7.5"
+       orientation="0,1"
+       id="guide6764"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="200,312.47294"
+       orientation="1,0"
+       id="guide6766"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.258423"
+       x="9.5142412"
+       y="11.520428"
+       id="text3715"><tspan
+         sodipodi:role="line"
+         id="tspan3713"
+         x="9.5142412"
+         y="11.520428"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.258423">Luc Bourlier</tspan></text>
+    <g
+       id="g1469">
+      <text
+         id="text3992"
+         y="15.990707"
+         x="39.446095"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-size:3.88056px;stroke-width:0.264583"
+           y="15.990707"
+           x="39.446095"
+           id="tspan3990"
+           sodipodi:role="line">Zurich, Switzerland</tspan></text>
+      <text
+         id="text3992-2"
+         y="20.537201"
+         x="39.593887"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-size:3.88056px;stroke-width:0.264583"
+           y="20.537201"
+           x="39.593887"
+           id="tspan3990-8"
+           sodipodi:role="line">Senior Software Engineer</tspan></text>
+      <text
+         id="text4014"
+         y="15.990707"
+         x="9.8248177"
+         style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-size:3.175px;stroke-width:0.264583"
+           y="15.990707"
+           x="9.8248177"
+           id="tspan4012"
+           sodipodi:role="line">current location:</tspan><tspan
+           id="tspan4016"
+           y="19.959457"
+           x="9.8248177"
+           sodipodi:role="line" /></text>
+      <text
+         id="text4014-2"
+         y="20.537201"
+         x="22.332581"
+         style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           id="tspan4041"
+           style="font-size:3.175px;stroke-width:0.264583"
+           y="20.537201"
+           x="22.332581"
+           sodipodi:role="line">position:</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="173.21886"
+       y="11.520428"
+       id="text3992-6"><tspan
+         sodipodi:role="line"
+         id="tspan3990-0"
+         x="173.21886"
+         y="11.520428"
+         style="font-size:3.88056px;stroke-width:0.264583">lb@skyluc.org</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="65.881248"
+       y="172.38126"
+       id="text4343" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="102.39374"
+       y="143.13126"
+       id="text4462"><tspan
+         sodipodi:role="line"
+         id="tspan4460"
+         x="102.39374"
+         y="143.13126"
+         style="stroke-width:0.264583">, </tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot322"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion324"><rect
+           id="rect326"
+           width="794"
+           height="60"
+           x="-40"
+           y="136.51968" /></flowRegion><flowPara
+         id="flowPara328" /></flowRoot>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 9.9000003,23.864869 V 289.5"
+       id="path4714"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g6581"
+       transform="translate(5.4291666,-1.6489369)">
+      <text
+         id="text3992-27"
+         y="28.417301"
+         x="4.7209477"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-size:3.88056px;stroke-width:0.264583"
+           y="28.417301"
+           x="4.7209477"
+           id="tspan3990-6"
+           sodipodi:role="line">Summary</tspan></text>
+      <text
+         inkscape:transform-center-y="11.1125"
+         inkscape:transform-center-x="-5.0270833"
+         id="text4160-2-0-7-3-4-35-9"
+         y="32.650639"
+         x="9.8863115"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           id="tspan312"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           y="32.650639"
+           x="9.8863115"
+           sodipodi:role="line">With experience in both open source and consumer products, and several years of functional</tspan><tspan
+           id="tspan1164"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           y="37.06036"
+           x="9.8863115"
+           sodipodi:role="line">programming, I am looking for the next engaging project on which to apply my abilities.</tspan><tspan
+           id="tspan1166"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           y="41.470081"
+           x="9.8863115"
+           sodipodi:role="line">I can work remote, or relocate, as needed.</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5540"
+         d="m 4.5708337,28.946469 c 18.8006563,0 18.8006563,0 18.8006563,0"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g6614"
+       transform="translate(5.4291668,1.3758354)">
+      <text
+         id="text3992-27-0"
+         y="42.907951"
+         x="4.5845213"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-size:3.88056px;stroke-width:0.264583"
+           y="42.907951"
+           x="4.5845213"
+           id="tspan3990-6-9"
+           sodipodi:role="line">Education</tspan></text>
+      <g
+         id="g6599">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="9.6053572"
+           y="48.199623"
+           id="text3992-27-0-0"><tspan
+             sodipodi:role="line"
+             x="9.6053572"
+             y="48.199623"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+             id="tspan330">Master degree in Computer Sciences</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="14.741618"
+           y="51.903793"
+           id="text336"><tspan
+             sodipodi:role="line"
+             id="tspan334"
+             x="14.741618"
+             y="51.903793"
+             style="font-size:3.175px;stroke-width:0.264583">2001 - ESSI (now Polytech'Nice Sophia).</tspan></text>
+      </g>
+      <g
+         id="g6593">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="9.5790091"
+           y="57.195465"
+           id="text3992-27-0-0-1"><tspan
+             sodipodi:role="line"
+             id="tspan3990-6-9-8-0"
+             x="9.5790091"
+             y="57.195465"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583">Bachelor degree, Mathematics and Computer Sciences applied to Sciences</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="14.612427"
+           y="60.899635"
+           id="text340"><tspan
+             sodipodi:role="line"
+             id="tspan338"
+             x="14.612427"
+             y="60.899635"
+             style="font-size:3.175px;stroke-width:0.264583">1998 - Université de Bourgogne.</tspan></text>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5542"
+         d="M 4.5708335,43.39207 H 23.585603"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       id="text3992-27-7"
+       y="66.988579"
+       x="10.013688"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:3.88056px;stroke-width:0.264583"
+         y="66.988579"
+         x="10.013688"
+         id="tspan3990-6-99"
+         sodipodi:role="line">Professional Experience</tspan></text>
+    <g
+       transform="translate(5.429167,17.290899)"
+       id="g6326">
+      <g
+         id="g6305">
+        <text
+           id="text3992-27-7-1-0"
+           y="188.06201"
+           x="14.549898"
+           style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-size:4.23333px;stroke-width:0.264583"
+             y="188.06201"
+             x="14.549898"
+             id="tspan3990-6-99-7-4"
+             sodipodi:role="line">Eclipse project, Debugger team</tspan></text>
+        <text
+           inkscape:transform-center-y="11.1125"
+           inkscape:transform-center-x="-5.0270833"
+           id="text4160-2-0-2"
+           y="191.76613"
+           x="19.653769"
+           style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan4216-9"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="191.76613"
+             x="19.653769"
+             sodipodi:role="line">Development of the Eclipse debugger platform, and of the Eclipse Java debugger.</tspan><tspan
+             id="tspan4442"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="195.73488"
+             x="19.653769"
+             sodipodi:role="line">Implementation of expression evaluation in a debugging context.</tspan><tspan
+             id="tspan4444"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="199.70363"
+             x="19.653769"
+             sodipodi:role="line">Implementation of support for JSR-45.</tspan><tspan
+             id="tspan6288"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+             y="203.67238"
+             x="19.653769"
+             sodipodi:role="line">Technologies: Java, Eclipse, JDI, OSGI, Junit.</tspan></text>
+      </g>
+      <g
+         id="g6311">
+        <text
+           id="text3992-27-7-1-1"
+           y="179.0663"
+           x="9.7715902"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+             y="179.0663"
+             x="9.7715902"
+             id="tspan3990-6-99-7-7"
+             sodipodi:role="line">OTI, then IBM - Staff Software Engineer</tspan></text>
+        <text
+           inkscape:transform-center-y="11.1125"
+           inkscape:transform-center-x="-5.0270833"
+           id="text4160-2-0-7-4"
+           y="182.77042"
+           x="14.653768"
+           style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan4458-3"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="182.77042"
+             x="14.653768"
+             sodipodi:role="line">Minneapolis, MN and Portland, OR. January 2002 - July 2005.</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(5.429167,15.043257)"
+       id="g6402">
+      <g
+         id="g6382">
+        <text
+           id="text3992-27-7-1-0-0"
+           y="164.46547"
+           x="14.549898"
+           style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-size:4.23333px;stroke-width:0.264583"
+             y="164.46547"
+             x="14.549898"
+             id="tspan3990-6-99-7-4-8"
+             sodipodi:role="line">MyEclipse IDE</tspan></text>
+        <text
+           inkscape:transform-center-y="11.1125"
+           inkscape:transform-center-x="-5.0270833"
+           id="text4160-2-0-7"
+           y="168.16959"
+           x="19.767456"
+           style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan4216-6"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="168.16959"
+             x="19.767456"
+             sodipodi:role="line">Support of an UML tool inside MyEclipse IDE.</tspan><tspan
+             id="tspan4458"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="172.13834"
+             x="19.767456"
+             sodipodi:role="line">Integration of NetBeans WYSIWYG editor for Swing in MyEclipse IDE.</tspan><tspan
+             id="tspan6374"
+             style="font-size:2.46944px;stroke-width:0.264583"
+             y="176.10709"
+             x="19.767456"
+             sodipodi:role="line">Technologies: Java, Eclipse, SWT, Swing, code generation.</tspan></text>
+      </g>
+      <g
+         id="g6388">
+        <text
+           id="text3992-27-7-1-7"
+           y="155.46976"
+           x="9.7715902"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+             y="155.46976"
+             x="9.7715902"
+             id="tspan3990-6-99-7-11"
+             sodipodi:role="line">Genuitec - Software Engineer</tspan></text>
+        <text
+           inkscape:transform-center-y="11.1125"
+           inkscape:transform-center-x="-5.0270833"
+           id="text4160-2-0-7-4-7"
+           y="159.17387"
+           x="14.653768"
+           style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan4458-3-9"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="159.17387"
+             x="14.653768"
+             sodipodi:role="line">Remote, from Dijon, France. Mars 2006 - May 2007.</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(5.3634068,-83.197217)"
+       id="g6402-3">
+      <g
+         id="g6382-6">
+        <text
+           id="text3992-27-7-1-0-0-7"
+           y="164.46547"
+           x="14.549898"
+           style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-size:4.23333px;stroke-width:0.264583"
+             y="164.46547"
+             x="14.549898"
+             id="tspan3990-6-99-7-4-8-5"
+             sodipodi:role="line">Enterprise deployment and performance platform</tspan></text>
+        <text
+           inkscape:transform-center-y="11.1125"
+           inkscape:transform-center-x="-5.0270833"
+           id="text4160-2-0-7-35"
+           y="168.16959"
+           x="19.767456"
+           style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan4216-6-6"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="168.16959"
+             x="19.767456"
+             sodipodi:role="line">Tooling and support for the deployment of Daml Enterprise on Kubernetes.</tspan><tspan
+             id="tspan4458-2"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="172.13834"
+             x="19.767456"
+             sodipodi:role="line">Tooling for performance measurement of Daml Enterprise.</tspan><tspan
+             id="tspan6374-9"
+             style="font-size:2.46944px;stroke-width:0.264583"
+             y="176.10709"
+             x="19.767456"
+             sodipodi:role="line">Technologies: Kubernetes, Helm, Scala, Haskell, TypeScript, GCE, AWS, Azure.</tspan></text>
+      </g>
+      <g
+         id="g6388-1">
+        <text
+           id="text3992-27-7-1-7-2"
+           y="155.46976"
+           x="9.7715902"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+             y="155.46976"
+             x="9.7715902"
+             id="tspan3990-6-99-7-11-7"
+             sodipodi:role="line">Digital Asset - Senior Software Engineer, Project Lead</tspan></text>
+        <text
+           inkscape:transform-center-y="11.1125"
+           inkscape:transform-center-x="-5.0270833"
+           id="text4160-2-0-7-4-7-0"
+           y="159.17387"
+           x="14.653768"
+           style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan4458-3-9-9"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="159.17387"
+             x="14.653768"
+             sodipodi:role="line">Zurich, Switzerland. September 2020 - February 2023.</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(5.429167,13.765709)"
+       id="g6460">
+      <g
+         id="g6434">
+        <text
+           id="text3992-27-7-1-4"
+           y="126.93435"
+           x="10"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+             y="126.93435"
+             x="10"
+             id="tspan3990-6-99-7-1"
+             sodipodi:role="line">TomTom - Senior Software Engineer, Tech Lead</tspan></text>
+        <text
+           inkscape:transform-center-y="11.1125"
+           inkscape:transform-center-x="-5.0270833"
+           id="text4160-2-0-7-4-74"
+           y="130.63849"
+           x="14.972439"
+           style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan4458-3-91"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="130.63849"
+             x="14.972439"
+             sodipodi:role="line">Amsterdam, Netherlands. June 2007 - June 2011.</tspan></text>
+      </g>
+      <g
+         id="g6444">
+        <text
+           id="text3992-27-7-1-0-0-5"
+           y="135.93008"
+           x="14.742478"
+           style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-size:4.23333px;stroke-width:0.264583"
+             y="135.93008"
+             x="14.742478"
+             id="tspan3990-6-99-7-4-8-1"
+             sodipodi:role="line">Over-the-air data distribution platform</tspan></text>
+        <text
+           inkscape:transform-center-y="11.1125"
+           inkscape:transform-center-x="-5.0270833"
+           id="text4160-2-0-7-0"
+           y="139.6342"
+           x="20.010336"
+           style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan4458-5"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="139.6342"
+             x="20.010336"
+             sodipodi:role="line">Creation and extension of the over-the-air platform used to send live data (traffic, weather, ...) to</tspan><tspan
+             id="tspan4544"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="143.60295"
+             x="20.010336"
+             sodipodi:role="line">TomTom GPS devices all over the world.</tspan><tspan
+             id="tspan4546"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="147.5717"
+             x="20.010336"
+             sodipodi:role="line">Requirements of high availability, low bandwidth and ease of adding new services and regions.</tspan><tspan
+             id="tspan6426"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="151.54045"
+             x="20.010336"
+             sodipodi:role="line"><tspan
+               id="tspan6428"
+               style="font-size:2.46944px">Technologies: Java, SOA, AOP, J2EE, Tomcat, Spring.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g7"
+       transform="translate(0,8.9958338)">
+      <g
+         id="g6556"
+         transform="translate(5.429167,1.552069)">
+        <text
+           id="text3992-27-7-1-0-0-6"
+           y="117.27237"
+           x="14.697693"
+           style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-size:4.23333px;stroke-width:0.264583"
+             y="117.27237"
+             x="14.697693"
+             id="tspan3990-6-99-7-4-8-6"
+             sodipodi:role="line">Scala IDE</tspan></text>
+        <text
+           inkscape:transform-center-y="11.1125"
+           inkscape:transform-center-x="-5.0270833"
+           id="text4160-2-0-7-3"
+           y="120.97655"
+           x="19.653769"
+           style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan4458-4"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="120.97655"
+             x="19.653769"
+             sodipodi:role="line">Development of Scala IDE, the support for Scala development inside Eclipse.</tspan><tspan
+             id="tspan6547"
+             style="font-size:2.46944px;stroke-width:0.264583"
+             y="124.9453"
+             x="19.653769"
+             sodipodi:role="line">Technologies: Eclipse, Scala, Java, Scala Presentation Compiler, JDI.</tspan></text>
+        <text
+           inkscape:transform-center-y="11.1125"
+           inkscape:transform-center-x="-5.0270833"
+           id="text4160-2-0-7-4-70-1-4"
+           y="117.27237"
+           x="38.36533"
+           style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan4458-3-6-5-1"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="117.27237"
+             x="38.36533"
+             sodipodi:role="line">2011-2014</tspan></text>
+      </g>
+      <g
+         id="g6545"
+         transform="translate(5.429167,0.21055972)">
+        <g
+           id="g6">
+          <text
+             id="text3992-27-7-1-0-0-2"
+             y="98.061211"
+             x="14.549898"
+             style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             xml:space="preserve"><tspan
+               id="tspan4371"
+               style="font-size:4.23333px;stroke-width:0.264583"
+               y="98.061211"
+               x="14.549898"
+               sodipodi:role="line">FastData projects</tspan></text>
+          <text
+             inkscape:transform-center-y="11.1125"
+             inkscape:transform-center-x="-5.0270833"
+             id="text4160-2-0-7-4-70-1"
+             y="98.061211"
+             x="55.911205"
+             style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             xml:space="preserve"><tspan
+               id="tspan4458-3-6-5"
+               style="font-size:3.175px;stroke-width:0.264583"
+               y="98.061211"
+               x="55.911205"
+               sodipodi:role="line">2015-2020</tspan></text>
+          <text
+             inkscape:transform-center-y="11.1125"
+             inkscape:transform-center-x="-5.0270833"
+             id="text4160-2-0-7-3-4"
+             y="101.76534"
+             x="19.788126"
+             style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             xml:space="preserve"><tspan
+               id="tspan4458-4-9"
+               style="font-size:3.175px;stroke-width:0.264583"
+               y="101.76534"
+               x="19.788126"
+               sodipodi:role="line">Various projects around FastData (streaming and processing Big Data), to support the integration of the main</tspan><tspan
+               style="font-size:3.175px;stroke-width:0.264583"
+               y="105.73409"
+               x="19.788126"
+               sodipodi:role="line"
+               id="tspan4">products of the ecosystem.</tspan><tspan
+               style="font-size:3.175px;stroke-width:0.264583"
+               y="109.70284"
+               x="19.788126"
+               sodipodi:role="line"
+               id="tspan5">The learnings lead to the creation of Cloudflow.</tspan><tspan
+               id="tspan4624"
+               style="font-size:2.46944px;stroke-width:0.264583"
+               y="113.67159"
+               x="19.788126"
+               sodipodi:role="line">Technologies: Spark, Flink, Akka Streams, DC/OS, OpenShift, Kafka, Kubernetes, AWS, GCE, Scala, Java.</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6535"
+         transform="translate(5.429167,15.703398)">
+        <text
+           id="text3992-27-7-1"
+           y="73.522972"
+           x="10"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+             y="73.522972"
+             x="10"
+             id="tspan3990-6-99-7"
+             sodipodi:role="line">Typesafe (now Ligthbend) - Senior Software Engineer</tspan></text>
+        <text
+           inkscape:transform-center-y="11.1125"
+           inkscape:transform-center-x="-5.0270833"
+           id="text4160-2-0-7-4-70"
+           y="77.227142"
+           x="14.653768"
+           style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan4458-3-6"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="77.227142"
+             x="14.653768"
+             sodipodi:role="line">Remote teams, from Lausanne, Switzerland. September 2011 - April 2020.</tspan></text>
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5542-1"
+       d="M 10,67.517749 H 56.02518"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g2"
+       transform="translate(0,9.5250005)">
+      <text
+         id="text3992-27-7-12"
+         y="216.53378"
+         x="10.191456"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-size:3.88056px;stroke-width:0.264583"
+           y="216.53378"
+           x="10.191456"
+           id="tspan3990-6-99-70"
+           sodipodi:role="line">Open Source Experience</tspan></text>
+      <text
+         inkscape:transform-center-y="11.1125"
+         inkscape:transform-center-x="-5.0270833"
+         id="text4160-2-0-2-9"
+         y="220.2379"
+         x="15.411942"
+         style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           id="tspan4444-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+           y="220.2379"
+           x="15.411942"
+           sodipodi:role="line">Eclipse</tspan><tspan
+           id="tspan224"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+           y="224.20665"
+           x="15.411942"
+           sodipodi:role="line">Scala IDE</tspan><tspan
+           id="tspan4308"
+           style="font-size:3.175px;stroke-width:0.264583"
+           y="228.1754"
+           x="15.411942"
+           sodipodi:role="line"><tspan
+   id="tspan4300"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Apache Spark</tspan> </tspan><tspan
+           style="font-size:3.175px;stroke-width:0.264583"
+           y="232.14415"
+           x="15.411942"
+           sodipodi:role="line"
+           id="tspan1">Small contributions to Scala and Akka Streams.</tspan><tspan
+           style="font-size:3.175px;stroke-width:0.264583"
+           y="236.1129"
+           x="15.411942"
+           sodipodi:role="line"
+           id="tspan2">Small contributions to Daml</tspan></text>
+      <text
+         inkscape:transform-center-y="11.1125"
+         inkscape:transform-center-x="-5.0270833"
+         id="text4160-2-0-2-9-3"
+         y="220.2379"
+         x="43.894337"
+         style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           id="tspan4444-0-7"
+           style="font-size:3.175px;stroke-width:0.264583"
+           y="220.2379"
+           x="43.894337"
+           sodipodi:role="line">- team member. <tspan
+   style="font-size:2.11667px"
+   id="tspan4899">(2002-2005)</tspan> </tspan><tspan
+           id="tspan228-9"
+           style="font-size:3.175px;stroke-width:0.264583"
+           y="224.20665"
+           x="43.894337"
+           sodipodi:role="line">- team member. <tspan
+   style="font-size:2.11667px"
+   id="tspan4903">(2011-2016)</tspan></tspan><tspan
+           style="font-size:3.175px;stroke-width:0.264583"
+           y="228.1754"
+           x="43.894337"
+           sodipodi:role="line"
+           id="tspan1180">- contribution to &quot;Dynamic Rate Limiter&quot; and &quot;Dynamic Allocation&quot;.</tspan><tspan
+           id="tspan346-3"
+           y="232.14415"
+           x="43.894337"
+           sodipodi:role="line" /><tspan
+           id="tspan230-6"
+           y="236.1129"
+           x="43.894337"
+           sodipodi:role="line" /></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5542-2"
+         d="M 10,217.06295 H 57.817317"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g1427"
+       transform="translate(0,-0.44101363)">
+      <g
+         id="g8"
+         transform="translate(0,10.583334)">
+        <text
+           inkscape:transform-center-y="11.1125"
+           inkscape:transform-center-x="-5.0270833"
+           id="text4160-2-0-1"
+           y="244.88483"
+           x="15.429167"
+           style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan1390"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="244.88483"
+             x="15.429167"
+             sodipodi:role="line"><tspan
+               id="tspan1392"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Talks<tspan
+   id="tspan1403"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"> at </tspan>conferences</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               id="tspan1407"> and user groups, including Spark Summit and Scala Days. <tspan
+   id="tspan1409"
+   style="font-size:2.82222px">(1, 2)</tspan></tspan></tspan><tspan
+             id="tspan4907"
+             style="font-size:3.175px;stroke-width:0.264583"
+             y="248.85358"
+             x="15.429167"
+             sodipodi:role="line"><tspan
+               id="tspan1400"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Community support</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               id="tspan1388"> for Open Source projects, main experience with Scala IDE and Cloudflow.</tspan></tspan></text>
+        <text
+           id="text3992-27-7-12-6"
+           y="241.18071"
+           x="10.191456"
+           style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-size:3.88056px;stroke-width:0.264583"
+             y="241.18071"
+             x="10.191456"
+             id="tspan3990-6-99-70-2"
+             sodipodi:role="line">Community Experience</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path5542-2-3"
+           d="M 10,241.70987 H 55.346495"
+           style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g6206"
+       transform="translate(5.4291669,1.7222226)">
+      <text
+         id="text3992-27-7-3"
+         y="263.30969"
+         x="4.5845213"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-size:3.88056px;stroke-width:0.264583"
+           y="263.30969"
+           x="4.5845213"
+           id="tspan3990-6-99-2"
+           sodipodi:role="line">Miscellaneous</tspan></text>
+      <text
+         inkscape:transform-center-y="11.1125"
+         inkscape:transform-center-x="-5.0270833"
+         id="text4160-2-0"
+         y="267.01392"
+         x="10"
+         style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-size:3.175px;stroke-width:0.264583"
+           y="267.01392"
+           x="10"
+           id="tspan4158-2-2"
+           sodipodi:role="line">Languages: French, native. English, fluent.</tspan><tspan
+           id="tspan4391"
+           style="font-size:3.175px;stroke-width:0.264583"
+           y="270.98267"
+           x="10"
+           sodipodi:role="line">                   Some notions: German, Dutch, Japanese.</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5542-2-3-6"
+         d="M 4.5708334,263.83886 H 31.610091"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       id="text3992-27-7-3-4"
+       y="277.418"
+       x="10.213688"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan4154"
+         style="font-size:3.88056px;stroke-width:0.264583"
+         y="277.418"
+         x="10.213688"
+         sodipodi:role="line">Links</tspan><tspan
+         id="tspan4152"
+         y="282.26871"
+         x="10.213688"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="15.308773"
+       y="281.12222"
+       id="text4160"><tspan
+         sodipodi:role="line"
+         id="tspan4158"
+         x="15.308773"
+         y="281.12222"
+         style="font-size:3.175px;fill:none;fill-opacity:1;stroke-width:0.264583">https://github.com/skyluc                 ---------------</tspan><tspan
+         sodipodi:role="line"
+         x="15.308773"
+         y="285.09097"
+         style="font-size:3.175px;fill:none;fill-opacity:1;stroke-width:0.264583"
+         id="tspan4401">https://www.linkedin.com/in/lucbourlier/</tspan><tspan
+         id="tspan6166"
+         sodipodi:role="line"
+         x="15.308773"
+         y="289.05972"
+         style="font-size:3.175px;fill:none;fill-opacity:1;stroke-width:0.264583"><tspan
+   id="tspan6168"
+   style="font-size:2.11667px;fill:none">1 - https://youtu.be/DonFPApGR24?t=900                     2 - https://youtu.be/oqWDeC1zmQw</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="15.308773"
+       y="281.12222"
+       id="text4160-9"
+       inkscape:transform-center-x="8.757118"
+       inkscape:transform-center-y="-3.6591238"><tspan
+         sodipodi:role="line"
+         id="tspan4158-7"
+         x="15.308773"
+         y="281.12222"
+         style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke-width:0.264583" /><tspan
+         sodipodi:role="line"
+         x="15.308773"
+         y="285.09097"
+         style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="tspan4401-3" /><tspan
+         id="tspan6166-61"
+         sodipodi:role="line"
+         x="15.308773"
+         y="289.05972"
+         style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke-width:0.264583"><tspan
+           id="tspan6168-2"
+           style="font-size:2.11667px">1 -                                                                                                      2 - </tspan></tspan></text>
+    <a
+       id="a13"
+       xlink:href="https://youtu.be/oqWDeC1zmQw"
+       transform="translate(0.17357806,0.12540773)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="76.830292"
+         y="288.93225"
+         id="text4160-5"><tspan
+           id="tspan6166-2"
+           sodipodi:role="line"
+           x="76.830292"
+           y="288.93225"
+           style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke-width:0.264583"><tspan
+   id="tspan6168-8"
+   style="font-size:2.11667px">https://youtu.be/oqWDeC1zmQw</tspan> </tspan></text>
+    </a>
+    <a
+       id="a11"
+       xlink:href="https://www.linkedin.com/in/lucbourlier/"
+       transform="translate(15.016339,-13.402639)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="0.29662263"
+         y="298.48129"
+         id="text4160-6"><tspan
+           id="tspan6166-7"
+           sodipodi:role="line"
+           x="0.29662263"
+           y="298.48129"
+           style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke-width:0.264583">https://www.linkedin.com/in/lucbourlier/ </tspan></text>
+    </a>
+    <a
+       id="a10"
+       xlink:href="https://github.com/skyluc"
+       transform="translate(0.13968256,-17.888214)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="15.11328"
+         y="299.01044"
+         id="text4160-3"><tspan
+           id="tspan6166-6"
+           sodipodi:role="line"
+           x="15.11328"
+           y="299.01044"
+           style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke-width:0.264583">https://github.com/skyluc </tspan></text>
+    </a>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5542-2-3-7"
+       d="m 10,277.94717 h 9.996554"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <a
+       id="a12"
+       xlink:href="https://youtu.be/DonFPApGR24?t=900"
+       transform="translate(32.245126,-8.3645834)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-13.461712"
+         y="297.42276"
+         id="text4160-2"><tspan
+           id="tspan6166-3"
+           sodipodi:role="line"
+           x="-13.461712"
+           y="297.42276"
+           style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke-width:0.264583"><tspan
+   id="tspan6168-7"
+   style="font-size:2.11667px">https://youtu.be/DonFPApGR24?t=900</tspan> </tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text13"
+       style="white-space:pre;shape-inside:url(#rect13);display:inline;fill:#000000" />
+  </g>
 </svg>
