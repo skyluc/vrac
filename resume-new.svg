@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 793.70081 1122.5197"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="resume-new.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1"
+     inkscape:cx="270.5"
+     inkscape:cy="421.5"
+     inkscape:window-width="2202"
+     inkscape:window-height="1435"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch70"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop70" />
+    </linearGradient>
+    <linearGradient
+       id="swatch69"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop69" />
+    </linearGradient>
+    <linearGradient
+       id="swatch64"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop64" />
+    </linearGradient>
+    <linearGradient
+       id="swatch56"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop56" />
+    </linearGradient>
+    <linearGradient
+       id="swatch55"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop55" />
+    </linearGradient>
+    <linearGradient
+       id="swatch54"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop54" />
+    </linearGradient>
+    <linearGradient
+       id="swatch53"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop53" />
+    </linearGradient>
+    <linearGradient
+       id="swatch52"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop52" />
+    </linearGradient>
+    <linearGradient
+       id="swatch51"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop51" />
+    </linearGradient>
+    <linearGradient
+       id="swatch50"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop50" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient50"
+       x1="350.17447"
+       y1="292.69233"
+       x2="896.47326"
+       y2="292.69233"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient51"
+       x1="309.48633"
+       y1="398.0715"
+       x2="1112.524"
+       y2="398.0715"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient52"
+       x1="309.48633"
+       y1="464.33267"
+       x2="871.18939"
+       y2="464.33267"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient53"
+       x1="294.63281"
+       y1="588.45825"
+       x2="1007.7438"
+       y2="588.45825"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient54"
+       x1="315.37045"
+       y1="713.2431"
+       x2="815.43475"
+       y2="713.2431"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient55"
+       x1="312.35092"
+       y1="796.15356"
+       x2="908.76569"
+       y2="796.15356"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient56"
+       x1="312.35092"
+       y1="742.61389"
+       x2="752.43787"
+       y2="742.61389"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch56"
+       id="linearGradient64"
+       x1="332.01172"
+       y1="1014.7783"
+       x2="1016.9065"
+       y2="1014.7783"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient69"
+       x1="300"
+       y1="904.62"
+       x2="780.58514"
+       y2="904.62"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch69"
+       id="linearGradient81"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Background Left bar"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.74751;stroke-opacity:1"
+       id="rect1"
+       width="264.56693"
+       height="1122.5197"
+       x="0"
+       y="0"
+       inkscape:label="grey left bar" />
+    <g
+       id="g3"
+       inkscape:label="Personal Information"
+       transform="scale(1.2216405,1)">
+      <rect
+         style="fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:0.663499;stroke-opacity:1"
+         id="rect2"
+         width="216.56694"
+         height="18.897638"
+         x="-4.4408921e-16"
+         y="132.28346"
+         inkscape:label="background" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.2697px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.904749"
+         x="9.0404587"
+         y="132.72133"
+         id="text53-2"
+         transform="scale(0.90474935,1.1052785)"
+         inkscape:label="label"><tspan
+           sodipodi:role="line"
+           id="tspan53-2"
+           x="9.0404587"
+           y="132.72133"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.904749">Personal Information</tspan></text>
+    </g>
+    <g
+       id="g3-2"
+       inkscape:label="Skills"
+       transform="matrix(1.2216405,0,0,1,0,151.71654)">
+      <rect
+         style="fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:0.663499;stroke-opacity:1"
+         id="rect2-7"
+         width="216.56694"
+         height="18.897638"
+         x="-4.4408921e-16"
+         y="132.28346"
+         inkscape:label="background" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.2697px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.904749"
+         x="9.3061123"
+         y="132.47948"
+         id="text53"
+         transform="scale(0.90474935,1.1052785)"
+         inkscape:label="label"><tspan
+           sodipodi:role="line"
+           id="tspan53"
+           x="9.3061123"
+           y="132.47948"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.904749">Skills</tspan></text>
+    </g>
+    <g
+       id="g3-9"
+       inkscape:label="Languages"
+       transform="matrix(1.2216405,0,0,1,0,701.71655)">
+      <rect
+         style="fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:0.663499;stroke-opacity:1"
+         id="rect2-1"
+         width="216.56694"
+         height="18.897638"
+         x="-4.4408921e-16"
+         y="132.28346"
+         inkscape:label="background" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.2697px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.904749"
+         x="9.0404587"
+         y="132.24623"
+         id="text53-1"
+         transform="scale(0.90474935,1.1052785)"
+         inkscape:label="label"><tspan
+           sodipodi:role="line"
+           id="tspan53-5"
+           x="9.0404587"
+           y="132.24623"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.904749">Languages</tspan></text>
+    </g>
+    <g
+       id="g3-97"
+       inkscape:label="Education"
+       transform="matrix(1.2216405,0,0,1,-4.7047676e-8,789.71655)">
+      <rect
+         style="fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:0.663499;stroke-opacity:1"
+         id="rect2-76"
+         width="216.56694"
+         height="18.897638"
+         x="-4.4408921e-16"
+         y="132.28346"
+         inkscape:label="background" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.2697px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.904749"
+         x="9.0404587"
+         y="132.67033"
+         id="text53-9"
+         transform="scale(0.90474935,1.1052785)"
+         inkscape:label="label"><tspan
+           sodipodi:role="line"
+           x="9.0404587"
+           y="132.67033"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.904749"
+           id="tspan55">Education</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Left bar"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.976717"
+       x="8.8906631"
+       y="58.055717"
+       id="text3715"
+       inkscape:label="Name"><tspan
+         sodipodi:role="line"
+         id="tspan3713"
+         x="8.8906631"
+         y="58.055717"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';stroke-width:0.976717">Luc Bourlier</tspan></text>
+    <text
+       id="text3992-2"
+       y="86.73381"
+       x="10.094444"
+       style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+       xml:space="preserve"
+       inkscape:label="Title"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';stroke-width:0.999999"
+         y="86.73381"
+         x="10.094444"
+         id="tspan3990-8"
+         sodipodi:role="line">Senior Software</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';stroke-width:0.999999"
+         y="108.83566"
+         x="10.094444"
+         sodipodi:role="line"
+         id="tspan1">Engineer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:14.6667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';fill:#000000;fill-opacity:1"
+       x="10.679728"
+       y="879.85809"
+       id="text9-5"
+       inkscape:label="Languages"><tspan
+         sodipodi:role="line"
+         id="tspan9-5"
+         x="10.679728"
+         y="879.85809"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">French<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+   id="tspan17"> - native</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="10.679728"
+         y="898.19147"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
+         id="tspan16">English<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+   id="tspan18"> - fluent</tspan></tspan></text>
+    <g
+       id="g45"
+       inkscape:label="Education"
+       transform="translate(0,16)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:14.6667px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1"
+         x="10.608112"
+         y="950.40106"
+         id="text9-6"
+         inkscape:label="Master"><tspan
+           sodipodi:role="line"
+           id="tspan9-9"
+           x="10.608112"
+           y="950.40106"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px">Master degree in</tspan><tspan
+           sodipodi:role="line"
+           x="10.608112"
+           y="965.06775"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px"
+           id="tspan19">Computer Sciences</tspan><tspan
+           sodipodi:role="line"
+           x="10.608112"
+           y="979.73444"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px"
+           id="tspan20">1998 - 2001</tspan><tspan
+           sodipodi:role="line"
+           x="10.608112"
+           y="994.40118"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px"
+           id="tspan25"><tspan
+             id="tspan52"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px">ESSI </tspan><tspan
+             id="tspan51"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:13.3333px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed';letter-spacing:0px;word-spacing:0px">(now Polytech'Nice Sophia)</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:14.6667px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1"
+         x="10.772826"
+         y="1022.0886"
+         id="text9-6-9"
+         inkscape:label="Bachelor"><tspan
+           sodipodi:role="line"
+           x="10.772826"
+           y="1022.0886"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';letter-spacing:0px;word-spacing:0px"
+           id="tspan44-6">Bachelor degree, Mathematics</tspan><tspan
+           sodipodi:role="line"
+           x="10.772826"
+           y="1036.7554"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';letter-spacing:0px;word-spacing:0px"
+           id="tspan31-6">and Computer Sciences</tspan><tspan
+           sodipodi:role="line"
+           x="10.772826"
+           y="1051.422"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';letter-spacing:0px;word-spacing:0px"
+           id="tspan33-4">applied to Sciences</tspan><tspan
+           sodipodi:role="line"
+           x="10.772826"
+           y="1066.0887"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px"
+           id="tspan24-9">1996-1998</tspan><tspan
+           sodipodi:role="line"
+           x="10.772826"
+           y="1080.7554"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px"
+           id="tspan25-5">Université de Bourgogne</tspan></text>
+    </g>
+    <g
+       id="g81"
+       inkscape:label="Skills">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient81)"
+         x="-282.23828"
+         y="413.44141"
+         id="text69"
+         inkscape:label="Skills"><tspan
+           sodipodi:role="line"
+           id="tspan69"
+           style="fill:url(#linearGradient81)"
+           x="-282.23828"
+           y="413.44141">Kubernetes, Helm, Scala, Haskell, TypeScript, GCE, AWS, Azure.</tspan><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient81)"
+           x="-282.23828"
+           y="429.57477"
+           id="tspan70" /><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient81)"
+           x="-282.23828"
+           y="445.70816"
+           id="tspan71">Spark, Flink, Akka Streams, DC/OS, OpenShift, Kafka, Kubernetes, AWS, GCE, Scala, Java.</tspan><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient81)"
+           x="-282.23828"
+           y="461.84152"
+           id="tspan72" /><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient81)"
+           x="-282.23828"
+           y="477.97488"
+           id="tspan73">Eclipse, Scala, Java, Scala Presentation Compiler, JDI.</tspan><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient81)"
+           x="-282.23828"
+           y="494.10825"
+           id="tspan74" /><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient81)"
+           x="-282.23828"
+           y="510.24164"
+           id="tspan75">Java, SOA, AOP, J2EE, Tomcat, Spring.</tspan><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient81)"
+           x="-282.23828"
+           y="526.375"
+           id="tspan76" /><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient81)"
+           x="-282.23828"
+           y="542.50836"
+           id="tspan77"> Java, Eclipse, SWT, Swing, code generation.</tspan><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient81)"
+           x="-282.23828"
+           y="558.64172"
+           id="tspan78" /><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient81)"
+           x="-282.23828"
+           y="574.77509"
+           id="tspan79"> Java, Eclipse, JDI, OSGI, Junit.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="11.338583"
+         y="323.81693"
+         id="text4"
+         inkscape:label="key"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           x="11.338583"
+           y="323.81693"
+           style="font-size:12px"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed'"
+             id="tspan6">Extensive Experience</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'"
+             id="tspan5" /></tspan><tspan
+           sodipodi:role="line"
+           x="11.338583"
+           y="338.81693"
+           style="font-size:12px"
+           id="tspan10"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'"
+             id="tspan11">/ Limited Experiences</tspan></tspan></text>
+    </g>
+    <g
+       id="g4"
+       inkscape:label="Personal Information">
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;fill:#9e9e9e;fill-opacity:1"
+         x="10.029992"
+         y="172.38281"
+         id="text3"
+         inkscape:label="email - label"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="10.029992"
+           y="172.38281"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#9e9e9e;fill-opacity:1">Email</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:14.6667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';fill:#000000;fill-opacity:1"
+         x="10.106809"
+         y="189.27344"
+         id="text7"
+         inkscape:label="email"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           x="10.106809"
+           y="189.27344"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">lb@skyluc.org</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';fill:#9e9e9e;fill-opacity:1"
+         x="10.029992"
+         y="208.51172"
+         id="text8"
+         inkscape:label="location - label"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           x="10.029992"
+           y="208.51172"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#9e9e9e;fill-opacity:1">Location</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';fill:#9e9e9e;fill-opacity:1"
+         x="10.029992"
+         y="240.28253"
+         id="text8-5"
+         inkscape:label="location - links"><tspan
+           sodipodi:role="line"
+           id="tspan8-9"
+           x="10.029992"
+           y="240.28253"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#9e9e9e;fill-opacity:1">Links</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:14.6667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';fill:#000000;fill-opacity:1"
+         x="10.679727"
+         y="224.04688"
+         id="text9"
+         inkscape:label="location"><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           x="10.679727"
+           y="224.04688"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Zurich, Switzerland</tspan></text>
+      <a
+         id="a13"
+         xlink:href="https://github.com/skyluc"
+         inkscape:label="github">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed';fill:#000000;fill-opacity:1"
+           x="10.251346"
+           y="254.66406"
+           id="text12"
+           inkscape:label="text"><tspan
+             sodipodi:role="line"
+             id="tspan12"
+             x="10.251346"
+             y="254.66406"
+             style="font-size:13.3333px">https://github.com/skyluc</tspan></text>
+      </a>
+      <a
+         id="a14"
+         xlink:href="https://linkedin.com/in/lucbourlier"
+         inkscape:label="linkedin"
+         transform="translate(-23.897092,3.4960939)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed';fill:#000000;fill-opacity:1"
+           x="34.148438"
+           y="271.12109"
+           id="text15"
+           inkscape:label="text"><tspan
+             sodipodi:role="line"
+             id="tspan15"
+             x="34.148438"
+             y="271.12109">https://linkedin.com/in/lucbourlier</tspan></text>
+      </a>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Background Main">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#9e9e9e;fill-opacity:1"
+       x="293.93988"
+       y="967.94531"
+       id="text58"
+       inkscape:label="Community Experience"><tspan
+         sodipodi:role="line"
+         id="tspan58"
+         x="293.93988"
+         y="967.94531"
+         style="font-size:17.3333px">Community Experience</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#9e9e9e;fill-opacity:1"
+       x="293.93988"
+       y="855.13281"
+       id="text57"
+       inkscape:label="Open Source Experience"><tspan
+         sodipodi:role="line"
+         id="tspan57"
+         x="293.93988"
+         y="855.13281"
+         style="font-size:17.3333px">Open Source Experience</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#9e9e9e;fill-opacity:1"
+       x="293.21201"
+       y="158.29688"
+       id="text56"
+       inkscape:label="Professional Experience"><tspan
+         sodipodi:role="line"
+         id="tspan56"
+         x="293.21201"
+         y="158.29688"
+         style="font-size:17.3333px">Professional Experience</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Main">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient64)"
+       x="332.05469"
+       y="1010.7578"
+       id="text62"
+       inkscape:label="Community Experience"><tspan
+         sodipodi:role="line"
+         id="tspan62"
+         x="332.05469"
+         y="1010.7578"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient64)"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
+   id="tspan66">Talks</tspan> at <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
+   id="tspan65">conferences</tspan> and user groups, including Spark Summit and Scala Days. (1, 2)</tspan><tspan
+         sodipodi:role="line"
+         x="332.05469"
+         y="1026.8912"
+         id="tspan64"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient64)"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
+   id="tspan67">Community support</tspan> for Open Source projects, main experience with Scala IDE and Cloudflow.</tspan></text>
+    <g
+       id="g69"
+       inkscape:label="Open Source Experience"
+       style="fill:url(#linearGradient69)">
+      <text
+         inkscape:transform-center-y="11.1125"
+         inkscape:transform-center-x="-5.0270833"
+         id="text4160-2-0-2-9"
+         y="879.12"
+         x="300"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient69);fill-opacity:1;stroke:none;stroke-width:0.999999"
+         xml:space="preserve"><tspan
+           id="tspan4444-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.999999;fill:url(#linearGradient69)"
+           y="879.12"
+           x="300"
+           sodipodi:role="line">Eclipse</tspan><tspan
+           id="tspan224"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.999999;fill:url(#linearGradient69)"
+           y="894.12"
+           x="300"
+           sodipodi:role="line">Scala IDE</tspan><tspan
+           id="tspan4308"
+           style="font-size:12px;stroke-width:0.999999;fill:url(#linearGradient69)"
+           y="909.12"
+           x="300"
+           sodipodi:role="line"><tspan
+   id="tspan4300"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.999999;fill:url(#linearGradient69)">Apache Spark</tspan> </tspan><tspan
+           style="font-size:12px;stroke-width:0.999999;fill:url(#linearGradient69)"
+           y="924.12"
+           x="300"
+           sodipodi:role="line"
+           id="tspan1-2">Small contributions to Scala and Akka Streams.</tspan><tspan
+           style="font-size:12px;stroke-width:0.999999;fill:url(#linearGradient69)"
+           y="939.12"
+           x="300"
+           sodipodi:role="line"
+           id="tspan2-0">Small contributions to Daml</tspan></text>
+      <text
+         inkscape:transform-center-y="11.1125"
+         inkscape:transform-center-x="-5.0270833"
+         id="text4160-2-0-2-9-3"
+         y="879.12"
+         x="407.65002"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient69);fill-opacity:1;stroke:none;stroke-width:0.999999"
+         xml:space="preserve"><tspan
+           id="tspan4444-0-7"
+           style="font-size:12px;stroke-width:0.999999;fill:url(#linearGradient69)"
+           y="879.12"
+           x="407.65002"
+           sodipodi:role="line">- team member. <tspan
+   style="font-size:8.00001px;stroke-width:0.999999;fill:url(#linearGradient69)"
+   id="tspan4899">(2002-2005)</tspan> </tspan><tspan
+           id="tspan228-9"
+           style="font-size:12px;stroke-width:0.999999;fill:url(#linearGradient69)"
+           y="894.12"
+           x="407.65002"
+           sodipodi:role="line">- team member. <tspan
+   style="font-size:8.00001px;stroke-width:0.999999;fill:url(#linearGradient69)"
+   id="tspan4903">(2011-2016)</tspan></tspan><tspan
+           style="font-size:12px;stroke-width:0.999999;fill:url(#linearGradient69)"
+           y="909.12"
+           x="407.65002"
+           sodipodi:role="line"
+           id="tspan1180">- contribution to &quot;Dynamic Rate Limiter&quot; and &quot;Dynamic Allocation&quot;.</tspan><tspan
+           id="tspan346-3"
+           y="924.12"
+           x="407.65002"
+           sodipodi:role="line"
+           style="stroke-width:0.999999;fill:url(#linearGradient69)" /><tspan
+           id="tspan230-6"
+           y="939.12"
+           x="407.65002"
+           sodipodi:role="line"
+           style="stroke-width:0.999999;fill:url(#linearGradient69)" /></text>
+    </g>
+    <g
+       id="g68"
+       inkscape:label="Professional Experience">
+      <g
+         id="g44"
+         inkscape:label="OTI">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="311.52734"
+           y="728.99609"
+           id="text44"
+           inkscape:label="Label"><tspan
+             sodipodi:role="line"
+             id="tspan44"
+             x="311.52734"
+             y="728.99609"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">OTI, then IBM - Staff Software Engineer</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient56)"
+           x="310.91147"
+           y="746.66016"
+           id="text45"
+           inkscape:label="Location date"><tspan
+             sodipodi:role="line"
+             id="tspan45"
+             x="310.91147"
+             y="746.66016"
+             style="fill:url(#linearGradient56)">Minneapolis, MN and Portland, OR. January 2002 - July 2005.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="310.91147"
+           y="766.60938"
+           id="text46"
+           inkscape:label="01"><tspan
+             sodipodi:role="line"
+             id="tspan46"
+             x="310.91147"
+             y="766.60938">Eclipse project, Debugger team</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient55)"
+           x="310.91147"
+           y="784.06641"
+           id="text47"
+           inkscape:label="01 description"><tspan
+             sodipodi:role="line"
+             id="tspan47"
+             x="310.91147"
+             y="784.06641"
+             style="fill:url(#linearGradient55)">Development of the Eclipse debugger platform, and of the Eclipse Java debugger.</tspan><tspan
+             sodipodi:role="line"
+             x="310.91147"
+             y="800.19977"
+             id="tspan48"
+             style="fill:url(#linearGradient55)">Implementation of expression evaluation in a debugging context.</tspan><tspan
+             sodipodi:role="line"
+             x="310.91147"
+             y="816.33313"
+             id="tspan49"
+             style="fill:url(#linearGradient55)">Implementation of support for JSR-45.</tspan><tspan
+             sodipodi:role="line"
+             x="310.91147"
+             y="832.46649"
+             id="tspan50"
+             style="fill:url(#linearGradient55)" /></text>
+      </g>
+      <g
+         id="g39"
+         inkscape:label="Genuitec"
+         transform="translate(16,-16)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient54)"
+           x="314.40366"
+           y="709.22266"
+           id="text42"
+           inkscape:label="01 description"><tspan
+             sodipodi:role="line"
+             id="tspan42"
+             x="314.40366"
+             y="709.22266"
+             style="fill:url(#linearGradient54)">Support of an UML tool inside MyEclipse IDE.</tspan><tspan
+             sodipodi:role="line"
+             x="314.40366"
+             y="725.35602"
+             id="tspan43"
+             style="fill:url(#linearGradient54)">Integration of NetBeans WYSIWYG editor for Swing in MyEclipse IDE.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="313.931"
+           y="692.10156"
+           id="text41"
+           inkscape:label="01"><tspan
+             sodipodi:role="line"
+             id="tspan41"
+             x="313.931"
+             y="692.10156">MyEclipse IDE</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="313.931"
+           y="670.16406"
+           id="text40"
+           inkscape:label="Location date"><tspan
+             sodipodi:role="line"
+             id="tspan40"
+             x="313.931"
+             y="670.16406">Remote, from Dijon, France. Mars 2006 - May 2007.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="314.54688"
+           y="657.03125"
+           id="text39"
+           inkscape:label="Label"><tspan
+             sodipodi:role="line"
+             id="tspan39"
+             x="314.54688"
+             y="657.03125"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Genuitec - Software Engineer</tspan></text>
+      </g>
+      <g
+         id="g33"
+         inkscape:label="TomTom">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient53)"
+           x="294.67578"
+           y="576.37109"
+           id="text36"
+           inkscape:label="01 description"><tspan
+             sodipodi:role="line"
+             id="tspan36"
+             x="294.67578"
+             y="576.37109"
+             style="fill:url(#linearGradient53)">Creation and extension of the over-the-air platform used to send live data (traffic, weather, ...) to</tspan><tspan
+             sodipodi:role="line"
+             x="294.67578"
+             y="592.50446"
+             id="tspan37"
+             style="fill:url(#linearGradient53)">TomTom GPS devices all over the world.</tspan><tspan
+             sodipodi:role="line"
+             x="294.67578"
+             y="608.63782"
+             id="tspan38"
+             style="fill:url(#linearGradient53)">Requirements of high availability, low bandwidth and ease of adding new services and regions.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="293.80923"
+           y="547.50781"
+           id="text35"
+           inkscape:label="01"><tspan
+             sodipodi:role="line"
+             id="tspan35"
+             x="293.80923"
+             y="547.50781">Over-the-air data distribution platform</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="294.51822"
+           y="520.57031"
+           id="text34"
+           inkscape:label="Location date"><tspan
+             sodipodi:role="line"
+             id="tspan34"
+             x="294.51822"
+             y="520.57031">Amsterdam, Netherlands. June 2007 - June 2011.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="294.67578"
+           y="498.45703"
+           id="text33"
+           inkscape:label="Label"><tspan
+             sodipodi:role="line"
+             id="tspan33"
+             x="294.67578"
+             y="498.45703"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">TomTom - Senior Software Engineer, Tech Lead</tspan></text>
+      </g>
+      <g
+         id="g23"
+         inkscape:label="Lightbend">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient52)"
+           x="308.04688"
+           y="468.37891"
+           id="text31"
+           inkscape:label="02 description"><tspan
+             sodipodi:role="line"
+             id="tspan31"
+             x="308.04688"
+             y="468.37891"
+             style="fill:url(#linearGradient52)">Development of Scala IDE, the support for Scala development inside Eclipse.</tspan><tspan
+             sodipodi:role="line"
+             x="308.04688"
+             y="484.51227"
+             id="tspan32"
+             style="fill:url(#linearGradient52)" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="308.51953"
+           y="444.31641"
+           id="text30"
+           inkscape:label="02"><tspan
+             sodipodi:role="line"
+             id="tspan30"
+             x="308.51953"
+             y="444.31641">Scala IDE</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient51)"
+           x="309.5293"
+           y="385.98438"
+           id="text27"
+           inkscape:label="01 description"><tspan
+             sodipodi:role="line"
+             id="tspan27"
+             x="309.5293"
+             y="385.98438"
+             style="fill:url(#linearGradient51)">Various projects around FastData (streaming and processing Big Data), to support the integration of the main</tspan><tspan
+             sodipodi:role="line"
+             x="309.5293"
+             y="402.11774"
+             id="tspan28"
+             style="fill:url(#linearGradient51)">products of the ecosystem.</tspan><tspan
+             sodipodi:role="line"
+             x="309.5293"
+             y="418.25113"
+             id="tspan29"
+             style="fill:url(#linearGradient51)">The learnings lead to the creation of Cloudflow.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="308.04688"
+           y="363.73438"
+           id="text26"
+           inkscape:label="01"><tspan
+             sodipodi:role="line"
+             id="tspan26"
+             x="308.04688"
+             y="363.73438">FastData projects 2015-2020</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="308.04688"
+           y="335.49219"
+           id="text24"
+           inkscape:label="Location date"><tspan
+             sodipodi:role="line"
+             id="tspan24"
+             x="308.04688"
+             y="335.49219">Remote teams, from Lausanne, Switzerland. September 2011 - April 2020.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="309.4147"
+           y="316.99219"
+           id="text23"
+           inkscape:label="Label"><tspan
+             sodipodi:role="line"
+             id="tspan23"
+             x="309.4147"
+             y="316.99219">Typesafe (now Ligthbend) - Senior Software Engineer</tspan></text>
+      </g>
+      <g
+         id="g2"
+         inkscape:label="Digital Asset"
+         transform="translate(-55.371321,-28)">
+        <text
+           xml:space="preserve"
+           style="font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient50);fill-opacity:1"
+           x="350.21744"
+           y="288.67188"
+           id="text21"
+           inkscape:label="01 description"><tspan
+             sodipodi:role="line"
+             id="tspan21"
+             x="350.21744"
+             y="288.67188"
+             style="fill:url(#linearGradient50)">Tooling and support for the deployment of Daml Enterprise on Kubernetes.</tspan><tspan
+             sodipodi:role="line"
+             x="350.21744"
+             y="304.80524"
+             id="tspan22"
+             style="fill:url(#linearGradient50)">Tooling for performance measurement of Daml Enterprise.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="348.73502"
+           y="267.67188"
+           id="text14"
+           inkscape:label="01"><tspan
+             sodipodi:role="line"
+             id="tspan14"
+             x="348.73502"
+             y="267.67188">Enterprise deployment and performance platform</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="349.51562"
+           y="244.71484"
+           id="text13"
+           inkscape:label="Location date"><tspan
+             sodipodi:role="line"
+             id="tspan13"
+             x="349.51562"
+             y="244.71484">Zurich, Switzerland. September 2020 - February 2024.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="348.82812"
+           y="222.96484"
+           id="text2"
+           inkscape:label="Label"><tspan
+             sodipodi:role="line"
+             id="tspan2"
+             x="348.82812"
+             y="222.96484">Digital Asset - Senior Software Engineer, Project Lead</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1"
+       x="294.40927"
+       y="58.055717"
+       id="text59"
+       inkscape:label="Blurb"><tspan
+         sodipodi:role="line"
+         id="tspan59"
+         x="294.40927"
+         y="58.055717"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000;fill-opacity:1;line-height:1.1">With experience in both open source and consumer products,</tspan><tspan
+         sodipodi:role="line"
+         x="294.40927"
+         y="74.189087"
+         id="tspan60"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000;fill-opacity:1;line-height:1.1">and several years of functional programming, I am looking for</tspan><tspan
+         sodipodi:role="line"
+         x="294.40927"
+         y="90.322456"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000;fill-opacity:1;line-height:1.1"
+         id="tspan63">the next engaging project on which to apply my abilities.</tspan><tspan
+         sodipodi:role="line"
+         x="294.40927"
+         y="106.45583"
+         id="tspan61"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000;fill-opacity:1;line-height:1.1">I can work remote, or relocate, as needed.</tspan></text>
+  </g>
+</svg>
