@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1"
-     inkscape:cx="270.5"
-     inkscape:cy="421.5"
-     inkscape:window-width="2202"
-     inkscape:window-height="1435"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="372.64527"
+     inkscape:cy="491.79277"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="g81" />
   <defs
      id="defs1">
     <linearGradient
@@ -118,78 +118,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch50"
-       id="linearGradient50"
-       x1="350.17447"
-       y1="292.69233"
-       x2="896.47326"
-       y2="292.69233"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch50"
-       id="linearGradient51"
-       x1="309.48633"
-       y1="398.0715"
-       x2="1112.524"
-       y2="398.0715"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch50"
-       id="linearGradient52"
-       x1="309.48633"
-       y1="464.33267"
-       x2="871.18939"
-       y2="464.33267"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch50"
-       id="linearGradient53"
-       x1="294.63281"
-       y1="588.45825"
-       x2="1007.7438"
-       y2="588.45825"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch50"
-       id="linearGradient54"
-       x1="315.37045"
-       y1="713.2431"
-       x2="815.43475"
-       y2="713.2431"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch50"
-       id="linearGradient55"
-       x1="312.35092"
-       y1="796.15356"
-       x2="908.76569"
-       y2="796.15356"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch50"
-       id="linearGradient56"
-       x1="312.35092"
-       y1="742.61389"
-       x2="752.43787"
-       y2="742.61389"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch56"
-       id="linearGradient64"
-       x1="332.01172"
-       y1="1014.7783"
-       x2="1016.9065"
-       y2="1014.7783"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch50"
        id="linearGradient69"
        x1="300"
        y1="904.62"
@@ -198,9 +126,102 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#swatch69"
-       id="linearGradient81"
-       gradientUnits="userSpaceOnUse" />
+       xlink:href="#swatch50"
+       id="linearGradient125"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(223.95674,-22.224146)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient137"
+       gradientUnits="userSpaceOnUse"
+       x1="350.17447"
+       y1="292.69233"
+       x2="896.47326"
+       y2="292.69233"
+       gradientTransform="translate(-0.13476903)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient142"
+       gradientUnits="userSpaceOnUse"
+       x1="312.35092"
+       y1="742.61389"
+       x2="752.43787"
+       y2="742.61389" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient143"
+       gradientUnits="userSpaceOnUse"
+       x1="312.35092"
+       y1="796.15356"
+       x2="908.76569"
+       y2="796.15356" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient144"
+       gradientUnits="userSpaceOnUse"
+       x1="309.48633"
+       y1="464.33267"
+       x2="871.18939"
+       y2="464.33267" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient145"
+       gradientUnits="userSpaceOnUse"
+       x1="309.48633"
+       y1="398.0715"
+       x2="1112.524"
+       y2="398.0715" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient146"
+       gradientUnits="userSpaceOnUse"
+       x1="294.63281"
+       y1="588.45825"
+       x2="1007.7438"
+       y2="588.45825" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient147"
+       gradientUnits="userSpaceOnUse"
+       x1="315.37045"
+       y1="713.2431"
+       x2="815.43475"
+       y2="713.2431" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient148"
+       gradientUnits="userSpaceOnUse"
+       x1="300"
+       y1="904.62"
+       x2="780.58514"
+       y2="904.62" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch50"
+       id="linearGradient149"
+       gradientUnits="userSpaceOnUse"
+       x1="300"
+       y1="904.62"
+       x2="780.58514"
+       y2="904.62" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch56"
+       id="linearGradient150"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-22)"
+       x1="332.01172"
+       y1="1014.7783"
+       x2="1016.9065"
+       y2="1014.7783" />
   </defs>
   <g
      inkscape:label="Background Left bar"
@@ -323,8 +344,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Left bar"
-     sodipodi:insensitive="true">
+     inkscape:label="Left bar">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.976717"
@@ -378,7 +398,8 @@
     <g
        id="g45"
        inkscape:label="Education"
-       transform="translate(0,16)">
+       transform="translate(0,16)"
+       sodipodi:insensitive="true">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:14.6667px;line-height:1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1"
@@ -445,79 +466,184 @@
     </g>
     <g
        id="g81"
-       inkscape:label="Skills">
+       inkscape:label="Skills"
+       transform="translate(69.663087,7.4108107)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient81)"
-         x="-282.23828"
-         y="413.44141"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient125)"
+         x="-58.281536"
+         y="391.21725"
          id="text69"
          inkscape:label="Skills"><tspan
            sodipodi:role="line"
            id="tspan69"
-           style="fill:url(#linearGradient81)"
-           x="-282.23828"
-           y="413.44141">Kubernetes, Helm, Scala, Haskell, TypeScript, GCE, AWS, Azure.</tspan><tspan
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="391.21725"><tspan
+   style="font-weight:bold;fill:url(#linearGradient125)"
+   id="tspan108">Scala</tspan>, <tspan
+   style="font-weight:bold;fill:url(#linearGradient125)"
+   id="tspan107">Java</tspan>, Haskell, </tspan><tspan
            sodipodi:role="line"
-           style="fill:url(#linearGradient81)"
-           x="-282.23828"
-           y="429.57477"
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="407.35062"
+           id="tspan124">TypeScript, x86 assembly</tspan><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="423.48401"
+           id="tspan105" /><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="439.61737"
+           id="tspan106"><tspan
+   style="font-weight:bold;fill:url(#linearGradient125)"
+   id="tspan110">Kubernetes</tspan>, <tspan
+   style="font-weight:bold;fill:url(#linearGradient125)"
+   id="tspan109">Helm</tspan>, </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="455.75073"
+           id="tspan136">Linux systems, workload</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="471.88409"
+           id="tspan165">management</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="488.01749"
+           id="tspan111" /><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="504.15085"
+           id="tspan112"><tspan
+   style="font-weight:bold;fill:url(#linearGradient125)"
+   id="tspan113">GCE</tspan>, AWS, Azure</tspan><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="520.28424"
            id="tspan70" /><tspan
            sodipodi:role="line"
-           style="fill:url(#linearGradient81)"
-           x="-282.23828"
-           y="445.70816"
-           id="tspan71">Spark, Flink, Akka Streams, DC/OS, OpenShift, Kafka, Kubernetes, AWS, GCE, Scala, Java.</tspan><tspan
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="536.4176"
+           id="tspan71"><tspan
+   style="font-weight:bold;fill:url(#linearGradient125)"
+   id="tspan115">Akka</tspan>, <tspan
+   style="font-weight:bold;fill:url(#linearGradient125)"
+   id="tspan114">Akka Streams</tspan>,</tspan><tspan
            sodipodi:role="line"
-           style="fill:url(#linearGradient81)"
-           x="-282.23828"
-           y="461.84152"
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="552.55096"
+           id="tspan125">Spark, Flink, Kafka</tspan><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="568.68433"
            id="tspan72" /><tspan
            sodipodi:role="line"
-           style="fill:url(#linearGradient81)"
-           x="-282.23828"
-           y="477.97488"
-           id="tspan73">Eclipse, Scala, Java, Scala Presentation Compiler, JDI.</tspan><tspan
+           style="font-weight:bold"
+           x="-58.281536"
+           y="584.81769"
+           id="tspan118">Agile Programming<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+   id="tspan161">,</tspan> SCRUM<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+   id="tspan162">,</tspan> </tspan><tspan
            sodipodi:role="line"
-           style="fill:url(#linearGradient81)"
-           x="-282.23828"
-           y="494.10825"
+           style="font-weight:bold"
+           x="-58.281536"
+           y="600.95105"
+           id="tspan130">Kanban<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+   id="tspan160">,</tspan> TDD<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+   id="tspan159">,</tspan> CI/<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+   id="tspan158">CD, </tspan><tspan
+   id="tspan164"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Git</tspan></tspan><tspan
+           sodipodi:role="line"
+           style="font-weight:bold"
+           x="-58.281536"
+           y="617.08447"
+           id="tspan150" /><tspan
+           sodipodi:role="line"
+           style="font-weight:bold"
+           x="-58.281536"
+           y="633.21783"
+           id="tspan156">Monitoring<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+   id="tspan153">,</tspan> metrics<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+   id="tspan152">, tracing,</tspan></tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="649.3512"
+           id="tspan132">performance testing</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="665.48456"
+           id="tspan157" /><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="681.61792"
+           id="tspan134"><tspan
+   style="font-weight:bold;fill:url(#linearGradient125)"
+   id="tspan135">Eclipse</tspan>, <tspan
+   style="font-weight:bold;fill:url(#linearGradient125)"
+   id="tspan117">JDI</tspan>, SWT, Swing,</tspan><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="697.75128"
+           id="tspan126">code generation, </tspan><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="713.88464"
+           id="tspan119">Scala Presentation Compiler</tspan><tspan
+           sodipodi:role="line"
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="730.01807"
            id="tspan74" /><tspan
            sodipodi:role="line"
-           style="fill:url(#linearGradient81)"
-           x="-282.23828"
-           y="510.24164"
-           id="tspan75">Java, SOA, AOP, J2EE, Tomcat, Spring.</tspan><tspan
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="746.15143"
+           id="tspan77">SOA, AOP, J2EE</tspan><tspan
            sodipodi:role="line"
-           style="fill:url(#linearGradient81)"
-           x="-282.23828"
-           y="526.375"
-           id="tspan76" /><tspan
-           sodipodi:role="line"
-           style="fill:url(#linearGradient81)"
-           x="-282.23828"
-           y="542.50836"
-           id="tspan77"> Java, Eclipse, SWT, Swing, code generation.</tspan><tspan
-           sodipodi:role="line"
-           style="fill:url(#linearGradient81)"
-           x="-282.23828"
-           y="558.64172"
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="762.28479"
            id="tspan78" /><tspan
            sodipodi:role="line"
-           style="fill:url(#linearGradient81)"
-           x="-282.23828"
-           y="574.77509"
-           id="tspan79"> Java, Eclipse, JDI, OSGI, Junit.</tspan></text>
+           style="fill:url(#linearGradient125)"
+           x="-58.281536"
+           y="778.41815"
+           id="tspan79" /></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
-         x="11.338583"
+         x="-58.324505"
          y="323.81693"
          id="text4"
          inkscape:label="key"><tspan
            sodipodi:role="line"
            id="tspan4"
-           x="11.338583"
+           x="-58.324505"
            y="323.81693"
            style="font-size:12px"><tspan
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed'"
@@ -525,7 +651,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'"
              id="tspan5" /></tspan><tspan
            sodipodi:role="line"
-           x="11.338583"
+           x="-58.324505"
            y="338.81693"
            style="font-size:12px"
            id="tspan10"><tspan
@@ -534,7 +660,8 @@
     </g>
     <g
        id="g4"
-       inkscape:label="Personal Information">
+       inkscape:label="Personal Information"
+       sodipodi:insensitive="true">
       <text
          xml:space="preserve"
          style="font-size:13.3333px;fill:#9e9e9e;fill-opacity:1"
@@ -676,65 +803,102 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Main">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient64)"
-       x="332.05469"
-       y="1010.7578"
-       id="text62"
-       inkscape:label="Community Experience"><tspan
-         sodipodi:role="line"
-         id="tspan62"
-         x="332.05469"
+    <g
+       id="g70"
+       inkscape:label="Community Experience"
+       transform="translate(-15.316639)">
+      <g
+         id="g82"
+         inkscape:label="Links"
+         transform="translate(-64)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="619.46149"
+           y="1071.9573"
+           id="text81"
+           inkscape:label="Url2"><tspan
+             sodipodi:role="line"
+             id="tspan81"
+             x="619.46149"
+             y="1071.9573"
+             style="font-size:10.6667px">2 - https://youtu.be/oqWDeC1zmQw </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           x="385.06937"
+           y="1071.9573"
+           id="text80"
+           inkscape:label="Url1"><tspan
+             sodipodi:role="line"
+             id="tspan80"
+             x="385.06937"
+             y="1071.9573"
+             style="font-size:10.6667px">1 - https://youtu.be/DonFPApGR24?t=900 </tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient150)"
+         x="310.05469"
          y="1010.7578"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient64)"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
+         id="text62"
+         inkscape:label="Text"><tspan
+           sodipodi:role="line"
+           id="tspan62"
+           x="310.05469"
+           y="1010.7578"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient150)"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:url(#linearGradient150)"
    id="tspan66">Talks</tspan> at <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:url(#linearGradient150)"
    id="tspan65">conferences</tspan> and user groups, including Spark Summit and Scala Days. (1, 2)</tspan><tspan
-         sodipodi:role="line"
-         x="332.05469"
-         y="1026.8912"
-         id="tspan64"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient64)"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
+           sodipodi:role="line"
+           x="310.05469"
+           y="1025.4244"
+           id="tspan64"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient150)"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:url(#linearGradient150)"
    id="tspan67">Community support</tspan> for Open Source projects, main experience with Scala IDE and Cloudflow.</tspan></text>
+    </g>
     <g
        id="g69"
        inkscape:label="Open Source Experience"
-       style="fill:url(#linearGradient69)">
+       style="fill:url(#linearGradient69)"
+       transform="translate(-5.2619516)">
       <text
          inkscape:transform-center-y="11.1125"
          inkscape:transform-center-x="-5.0270833"
          id="text4160-2-0-2-9"
          y="879.12"
          x="300"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient69);fill-opacity:1;stroke:none;stroke-width:0.999999"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient148);fill-opacity:1;stroke:none;stroke-width:0.999999"
          xml:space="preserve"><tspan
            id="tspan4444-0"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.999999;fill:url(#linearGradient69)"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:url(#linearGradient148);stroke-width:0.999999"
            y="879.12"
            x="300"
            sodipodi:role="line">Eclipse</tspan><tspan
            id="tspan224"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.999999;fill:url(#linearGradient69)"
-           y="894.12"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:url(#linearGradient148);stroke-width:0.999999"
+           y="895.78662"
            x="300"
            sodipodi:role="line">Scala IDE</tspan><tspan
            id="tspan4308"
-           style="font-size:12px;stroke-width:0.999999;fill:url(#linearGradient69)"
-           y="909.12"
+           style="font-size:12px;fill:url(#linearGradient148);stroke-width:0.999999"
+           y="912.45325"
            x="300"
            sodipodi:role="line"><tspan
-   id="tspan4300"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.999999;fill:url(#linearGradient69)">Apache Spark</tspan> </tspan><tspan
-           style="font-size:12px;stroke-width:0.999999;fill:url(#linearGradient69)"
-           y="924.12"
+             id="tspan4300"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:url(#linearGradient148);stroke-width:0.999999">Apache Spark</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient148)"
+             id="tspan54"> </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient148);stroke-width:0.999999"
+           y="929.11987"
            x="300"
            sodipodi:role="line"
            id="tspan1-2">Small contributions to Scala and Akka Streams.</tspan><tspan
-           style="font-size:12px;stroke-width:0.999999;fill:url(#linearGradient69)"
-           y="939.12"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient148);stroke-width:0.999999"
+           y="945.7865"
            x="300"
            sodipodi:role="line"
            id="tspan2-0">Small contributions to Daml</tspan></text>
@@ -744,44 +908,41 @@
          id="text4160-2-0-2-9-3"
          y="879.12"
          x="407.65002"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient69);fill-opacity:1;stroke:none;stroke-width:0.999999"
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient149);fill-opacity:1;stroke:none;stroke-width:0.999999"
          xml:space="preserve"><tspan
            id="tspan4444-0-7"
-           style="font-size:12px;stroke-width:0.999999;fill:url(#linearGradient69)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient149);stroke-width:0.999999"
            y="879.12"
            x="407.65002"
-           sodipodi:role="line">- team member. <tspan
-   style="font-size:8.00001px;stroke-width:0.999999;fill:url(#linearGradient69)"
-   id="tspan4899">(2002-2005)</tspan> </tspan><tspan
+           sodipodi:role="line">- team member. (2002-2005) </tspan><tspan
            id="tspan228-9"
-           style="font-size:12px;stroke-width:0.999999;fill:url(#linearGradient69)"
-           y="894.12"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient149);stroke-width:0.999999"
+           y="896.1214"
            x="407.65002"
-           sodipodi:role="line">- team member. <tspan
-   style="font-size:8.00001px;stroke-width:0.999999;fill:url(#linearGradient69)"
-   id="tspan4903">(2011-2016)</tspan></tspan><tspan
-           style="font-size:12px;stroke-width:0.999999;fill:url(#linearGradient69)"
-           y="909.12"
+           sodipodi:role="line">- team member. (2011-2016)</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient149);stroke-width:0.999999"
+           y="913.1228"
            x="407.65002"
            sodipodi:role="line"
            id="tspan1180">- contribution to &quot;Dynamic Rate Limiter&quot; and &quot;Dynamic Allocation&quot;.</tspan><tspan
            id="tspan346-3"
-           y="924.12"
+           y="930.12427"
            x="407.65002"
            sodipodi:role="line"
-           style="stroke-width:0.999999;fill:url(#linearGradient69)" /><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient149);stroke-width:0.999999" /><tspan
            id="tspan230-6"
-           y="939.12"
+           y="947.12567"
            x="407.65002"
            sodipodi:role="line"
-           style="stroke-width:0.999999;fill:url(#linearGradient69)" /></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:url(#linearGradient149);stroke-width:0.999999" /></text>
     </g>
     <g
        id="g68"
        inkscape:label="Professional Experience">
       <g
          id="g44"
-         inkscape:label="OTI">
+         inkscape:label="OTI"
+         transform="translate(-17.547774)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
@@ -796,7 +957,7 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">OTI, then IBM - Staff Software Engineer</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient56)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient142)"
            x="310.91147"
            y="746.66016"
            id="text45"
@@ -805,10 +966,10 @@
              id="tspan45"
              x="310.91147"
              y="746.66016"
-             style="fill:url(#linearGradient56)">Minneapolis, MN and Portland, OR. January 2002 - July 2005.</tspan></text>
+             style="font-size:13.3333px;fill:url(#linearGradient142)">Minneapolis, MN and Portland, OR. January 2002 - July 2005.</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
            x="310.91147"
            y="766.60938"
            id="text46"
@@ -816,10 +977,11 @@
              sodipodi:role="line"
              id="tspan46"
              x="310.91147"
-             y="766.60938">Eclipse project, Debugger team</tspan></text>
+             y="766.60938"
+             style="font-size:13.3333px">Eclipse project, Debugger team</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient55)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient143)"
            x="310.91147"
            y="784.06641"
            id="text47"
@@ -828,30 +990,30 @@
              id="tspan47"
              x="310.91147"
              y="784.06641"
-             style="fill:url(#linearGradient55)">Development of the Eclipse debugger platform, and of the Eclipse Java debugger.</tspan><tspan
+             style="font-size:13.3333px;fill:url(#linearGradient143)">Development of the Eclipse debugger platform, and of the Eclipse Java debugger.</tspan><tspan
              sodipodi:role="line"
              x="310.91147"
-             y="800.19977"
+             y="798.73303"
              id="tspan48"
-             style="fill:url(#linearGradient55)">Implementation of expression evaluation in a debugging context.</tspan><tspan
+             style="font-size:13.3333px;fill:url(#linearGradient143)">Implementation of expression evaluation in a debugging context.</tspan><tspan
              sodipodi:role="line"
              x="310.91147"
-             y="816.33313"
+             y="813.39966"
              id="tspan49"
-             style="fill:url(#linearGradient55)">Implementation of support for JSR-45.</tspan><tspan
+             style="font-size:13.3333px;fill:url(#linearGradient143)">Implementation of support for JSR-45.</tspan><tspan
              sodipodi:role="line"
              x="310.91147"
-             y="832.46649"
+             y="828.06628"
              id="tspan50"
-             style="fill:url(#linearGradient55)" /></text>
+             style="font-size:13.3333px;fill:url(#linearGradient143)" /></text>
       </g>
       <g
          id="g39"
          inkscape:label="Genuitec"
-         transform="translate(16,-16)">
+         transform="translate(-20.567305,-26.93457)">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient54)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient147)"
            x="314.40366"
            y="709.22266"
            id="text42"
@@ -860,15 +1022,15 @@
              id="tspan42"
              x="314.40366"
              y="709.22266"
-             style="fill:url(#linearGradient54)">Support of an UML tool inside MyEclipse IDE.</tspan><tspan
+             style="font-size:13.3333px;fill:url(#linearGradient147)">Support of an UML tool inside MyEclipse IDE.</tspan><tspan
              sodipodi:role="line"
              x="314.40366"
-             y="725.35602"
+             y="723.88928"
              id="tspan43"
-             style="fill:url(#linearGradient54)">Integration of NetBeans WYSIWYG editor for Swing in MyEclipse IDE.</tspan></text>
+             style="font-size:13.3333px;fill:url(#linearGradient147)">Integration of NetBeans WYSIWYG editor for Swing in MyEclipse IDE.</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
            x="313.931"
            y="692.10156"
            id="text41"
@@ -876,10 +1038,11 @@
              sodipodi:role="line"
              id="tspan41"
              x="313.931"
-             y="692.10156">MyEclipse IDE</tspan></text>
+             y="692.10156"
+             style="font-size:13.3333px">MyEclipse IDE</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
            x="313.931"
            y="670.16406"
            id="text40"
@@ -887,7 +1050,8 @@
              sodipodi:role="line"
              id="tspan40"
              x="313.931"
-             y="670.16406">Remote, from Dijon, France. Mars 2006 - May 2007.</tspan></text>
+             y="670.16406"
+             style="font-size:13.3333px">Remote, from Dijon, France. Mars 2006 - May 2007.</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
@@ -903,10 +1067,11 @@
       </g>
       <g
          id="g33"
-         inkscape:label="TomTom">
+         inkscape:label="TomTom"
+         transform="translate(0.11435467,-7.6490518)">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient53)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient146)"
            x="294.67578"
            y="576.37109"
            id="text36"
@@ -915,20 +1080,20 @@
              id="tspan36"
              x="294.67578"
              y="576.37109"
-             style="fill:url(#linearGradient53)">Creation and extension of the over-the-air platform used to send live data (traffic, weather, ...) to</tspan><tspan
+             style="font-size:13.3333px;fill:url(#linearGradient146)">Creation and extension of the over-the-air platform used to send live data (traffic, weather, ...) to</tspan><tspan
              sodipodi:role="line"
              x="294.67578"
-             y="592.50446"
+             y="591.03772"
              id="tspan37"
-             style="fill:url(#linearGradient53)">TomTom GPS devices all over the world.</tspan><tspan
+             style="font-size:13.3333px;fill:url(#linearGradient146)">TomTom GPS devices all over the world.</tspan><tspan
              sodipodi:role="line"
              x="294.67578"
-             y="608.63782"
+             y="605.70435"
              id="tspan38"
-             style="fill:url(#linearGradient53)">Requirements of high availability, low bandwidth and ease of adding new services and regions.</tspan></text>
+             style="font-size:13.3333px;fill:url(#linearGradient146)">Requirements of high availability, low bandwidth and ease of adding new services and regions.</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
            x="293.80923"
            y="547.50781"
            id="text35"
@@ -936,10 +1101,11 @@
              sodipodi:role="line"
              id="tspan35"
              x="293.80923"
-             y="547.50781">Over-the-air data distribution platform</tspan></text>
+             y="547.50781"
+             style="font-size:13.3333px">Over-the-air data distribution platform</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
            x="294.51822"
            y="520.57031"
            id="text34"
@@ -947,7 +1113,8 @@
              sodipodi:role="line"
              id="tspan34"
              x="294.51822"
-             y="520.57031">Amsterdam, Netherlands. June 2007 - June 2011.</tspan></text>
+             y="520.57031"
+             style="font-size:13.3333px">Amsterdam, Netherlands. June 2007 - June 2011.</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
@@ -963,10 +1130,11 @@
       </g>
       <g
          id="g23"
-         inkscape:label="Lightbend">
+         inkscape:label="Lightbend"
+         transform="translate(-14.68318,-9.6123047)">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient52)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient144)"
            x="308.04688"
            y="468.37891"
            id="text31"
@@ -975,15 +1143,15 @@
              id="tspan31"
              x="308.04688"
              y="468.37891"
-             style="fill:url(#linearGradient52)">Development of Scala IDE, the support for Scala development inside Eclipse.</tspan><tspan
+             style="font-size:13.3333px;fill:url(#linearGradient144)">Development of Scala IDE, the support for Scala development inside Eclipse.</tspan><tspan
              sodipodi:role="line"
              x="308.04688"
-             y="484.51227"
+             y="483.04553"
              id="tspan32"
-             style="fill:url(#linearGradient52)" /></text>
+             style="font-size:13.3333px;fill:url(#linearGradient144)" /></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
            x="308.51953"
            y="444.31641"
            id="text30"
@@ -991,10 +1159,11 @@
              sodipodi:role="line"
              id="tspan30"
              x="308.51953"
-             y="444.31641">Scala IDE</tspan></text>
+             y="444.31641"
+             style="font-size:13.3333px">Scala IDE</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient51)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient145)"
            x="309.5293"
            y="385.98438"
            id="text27"
@@ -1003,20 +1172,20 @@
              id="tspan27"
              x="309.5293"
              y="385.98438"
-             style="fill:url(#linearGradient51)">Various projects around FastData (streaming and processing Big Data), to support the integration of the main</tspan><tspan
+             style="font-size:13.3333px;fill:url(#linearGradient145)">Various projects around FastData (streaming and processing Big Data), to support the integration of the main</tspan><tspan
              sodipodi:role="line"
              x="309.5293"
-             y="402.11774"
+             y="400.651"
              id="tspan28"
-             style="fill:url(#linearGradient51)">products of the ecosystem.</tspan><tspan
+             style="font-size:13.3333px;fill:url(#linearGradient145)">products of the ecosystem.</tspan><tspan
              sodipodi:role="line"
              x="309.5293"
-             y="418.25113"
+             y="415.31763"
              id="tspan29"
-             style="fill:url(#linearGradient51)">The learnings lead to the creation of Cloudflow.</tspan></text>
+             style="font-size:13.3333px;fill:url(#linearGradient145)">The learnings lead to the creation of Cloudflow.</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
            x="308.04688"
            y="363.73438"
            id="text26"
@@ -1024,10 +1193,11 @@
              sodipodi:role="line"
              id="tspan26"
              x="308.04688"
-             y="363.73438">FastData projects 2015-2020</tspan></text>
+             y="363.73438"
+             style="font-size:13.3333px">FastData projects 2015-2020</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
            x="308.04688"
            y="335.49219"
            id="text24"
@@ -1035,7 +1205,8 @@
              sodipodi:role="line"
              id="tspan24"
              x="308.04688"
-             y="335.49219">Remote teams, from Lausanne, Switzerland. September 2011 - April 2020.</tspan></text>
+             y="335.49219"
+             style="font-size:13.3333px">Remote teams, from Lausanne, Switzerland. September 2011 - April 2020.</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
@@ -1054,24 +1225,24 @@
          transform="translate(-55.371321,-28)">
         <text
            xml:space="preserve"
-           style="font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient50);fill-opacity:1"
-           x="350.21744"
+           style="font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient137);fill-opacity:1"
+           x="350.08267"
            y="288.67188"
            id="text21"
            inkscape:label="01 description"><tspan
              sodipodi:role="line"
              id="tspan21"
-             x="350.21744"
+             x="350.08267"
              y="288.67188"
-             style="fill:url(#linearGradient50)">Tooling and support for the deployment of Daml Enterprise on Kubernetes.</tspan><tspan
+             style="font-size:13.3333px;fill:url(#linearGradient137)">Tooling and support for the deployment of Daml Enterprise on Kubernetes.</tspan><tspan
              sodipodi:role="line"
-             x="350.21744"
-             y="304.80524"
+             x="350.08267"
+             y="303.3385"
              id="tspan22"
-             style="fill:url(#linearGradient50)">Tooling for performance measurement of Daml Enterprise.</tspan></text>
+             style="font-size:13.3333px;fill:url(#linearGradient137)">Tooling for performance measurement of Daml Enterprise.</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           style="font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
            x="348.73502"
            y="267.67188"
            id="text14"
@@ -1079,10 +1250,11 @@
              sodipodi:role="line"
              id="tspan14"
              x="348.73502"
-             y="267.67188">Enterprise deployment and performance platform</tspan></text>
+             y="267.67188"
+             style="font-size:13.3333px">Enterprise deployment and performance platform</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+           style="font-size:13.3333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
            x="349.51562"
            y="244.71484"
            id="text13"
@@ -1090,7 +1262,8 @@
              sodipodi:role="line"
              id="tspan13"
              x="349.51562"
-             y="244.71484">Zurich, Switzerland. September 2020 - February 2024.</tspan></text>
+             y="244.71484"
+             style="font-size:13.3333px">Zurich, Switzerland. September 2020 - February 2024.</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
